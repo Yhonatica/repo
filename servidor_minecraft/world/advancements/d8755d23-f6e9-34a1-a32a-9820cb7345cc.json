@@ -140,7 +140,8 @@
       "cooked_chicken": "2025-09-06 05:45:52 +0000",
       "enchanted_golden_apple": "2025-09-06 03:49:07 +0000",
       "rabbit_stew": "2025-09-06 02:39:52 +0000",
-      "cooked_salmon": "2025-09-07 03:49:52 +0000"
+      "cooked_salmon": "2025-09-07 03:49:52 +0000",
+      "carrot": "2025-09-08 21:49:45 +0000"
     },
     "done": false
   },
@@ -4412,6 +4413,30 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-09-08 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-09-08 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-09-08 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-09-08 21:50:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-09-08 21:36:06 +0000"
@@ -4424,9 +4449,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-09-08 21:52:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2025-09-08 21:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-09-08 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-08 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-09-08 21:40:40 +0000"
     },
     "done": true
   },
