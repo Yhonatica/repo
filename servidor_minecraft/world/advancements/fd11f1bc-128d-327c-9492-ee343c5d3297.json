@@ -3230,6 +3230,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-09-08 23:40:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-09-08 22:20:58 +0000"

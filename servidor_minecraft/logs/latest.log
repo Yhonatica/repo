@@ -1155,3 +1155,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [08Sep2025 23:29:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
 [08Sep2025 23:29:36.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
 [08Sep2025 23:29:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[08Sep2025 23:38:17.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:62404] logged in with entity id 85835 at (829.8587714258789, 113.65210924595301, 4049.3906525849698)
+[08Sep2025 23:38:17.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[08Sep2025 23:38:17.511] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[08Sep2025 23:38:41.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[08Sep2025 23:39:35.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin moved too quickly! -3.6251948250506985,0.7275929223519455,9.990528754549814
+[08Sep2025 23:40:59.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[08Sep2025 23:42:16.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[08Sep2025 23:42:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
