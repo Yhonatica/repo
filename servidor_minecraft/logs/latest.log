@@ -898,3 +898,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [08Sep2025 21:26:56.840] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-369, y=-36, z=2881}
 [08Sep2025 21:26:56.840] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-371, y=-36, z=2881}
 [08Sep2025 21:27:23.691] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-476, y=-48, z=2767}
+[08Sep2025 21:33:19.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54191] logged in with entity id 27871 at (-94.41912410382524, 62.21410064656548, 3460.0934728937964)
+[08Sep2025 21:33:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[08Sep2025 21:33:19.159] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[08Sep2025 21:33:59.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[08Sep2025 21:34:00.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[08Sep2025 21:34:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[08Sep2025 21:34:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]

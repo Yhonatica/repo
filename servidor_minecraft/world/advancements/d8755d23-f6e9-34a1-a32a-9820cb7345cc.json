@@ -4364,6 +4364,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-09-08 21:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-08 21:20:07 +0000"
@@ -4376,27 +4382,51 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-09-08 21:20:14 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-08 21:20:07 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:wrong_santa": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "wrong_santa_0": "2025-09-08 21:12:59 +0000"
+      "enchanted_item": "2025-09-08 21:20:14 +0000"
     },
     "done": true
   },
   "cnc:turkey_advancement": {
     "criteria": {
       "turkey_advancement_0": "2025-09-08 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-09-08 21:36:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-09-08 21:36:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-09-08 21:36:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-09-08 21:36:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-08 21:36:06 +0000"
     },
     "done": true
   },
