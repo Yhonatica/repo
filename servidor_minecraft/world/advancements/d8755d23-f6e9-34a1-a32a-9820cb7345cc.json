@@ -4523,9 +4523,27 @@
     },
     "done": false
   },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-09-08 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-09-08 22:39:08 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-09-08 22:31:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-09-08 22:39:08 +0000"
     },
     "done": true
   },
@@ -4535,9 +4553,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-09-08 22:39:08 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_skeletosaurus": {
     "criteria": {
       "skeletosaurus": "2025-09-08 22:32:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-09-08 22:39:08 +0000"
     },
     "done": true
   },
