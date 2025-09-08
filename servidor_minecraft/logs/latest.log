@@ -1163,3 +1163,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [08Sep2025 23:40:59.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
 [08Sep2025 23:42:16.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
 [08Sep2025 23:42:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[08Sep2025 23:46:57.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:55075] logged in with entity id 88728 at (-380.48299732145676, 39.117592937849146, 54.508120577315985)
+[08Sep2025 23:46:57.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[08Sep2025 23:46:57.545] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[08Sep2025 23:47:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[08Sep2025 23:47:12.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> disc sigue sin funcionar?
+[08Sep2025 23:47:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> epaepa
+[08Sep2025 23:47:23.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[08Sep2025 23:47:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> aa
+[08Sep2025 23:47:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[08Sep2025 23:47:53.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[08Sep2025 23:49:56.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[08Sep2025 23:51:03.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 23:52:26.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[08Sep2025 23:53:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
