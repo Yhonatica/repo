@@ -929,3 +929,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [08Sep2025 22:21:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Nether Exorcism]
 [08Sep2025 22:21:23.432] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
 [08Sep2025 22:21:23.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2916ms or 58 ticks behind
+[08Sep2025 22:22:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[08Sep2025 22:22:55.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[08Sep2025 22:25:53.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was slain by Restless Spirit
+[08Sep2025 22:25:53.933] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_08.09.2025-22.25.53.dat
+[08Sep2025 22:26:32.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was killed
+[08Sep2025 22:26:32.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Killed Konnorcito]
+[08Sep2025 22:27:12.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> te saliste
+[08Sep2025 22:27:21.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ?
+[08Sep2025 22:27:29.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[08Sep2025 22:27:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[08Sep2025 22:27:34.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54601] logged in with entity id 56972 at (443.9970770150388, 72.0, 711.1026766488816)
+[08Sep2025 22:27:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[08Sep2025 22:27:34.347] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[08Sep2025 22:27:38.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was shot by Dark Vortex
+[08Sep2025 22:27:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:27:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was slain by Dread Knight
+[08Sep2025 22:27:52.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:27:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 22:27:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was slain by Dread Knight
+[08Sep2025 22:27:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> qutitate
+[08Sep2025 22:28:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 22:28:07.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> tp
+[08Sep2025 22:28:11.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:28:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> donde esta la ksa
+[08Sep2025 22:28:23.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 1000]
+[08Sep2025 22:28:25.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> pa alla
+[08Sep2025 22:28:29.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> el otro lado
+[08Sep2025 22:28:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:28:33.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> para alla
+[08Sep2025 22:28:36.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> deja sapo
+[08Sep2025 22:28:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was killed
+[08Sep2025 22:28:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Killed Konnorcito]
+[08Sep2025 22:28:51.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[08Sep2025 22:28:54.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:29:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 22:29:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[08Sep2025 22:29:48.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 22:29:51.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> vale la pena ?
+[08Sep2025 22:29:52.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> mucho mob
+[08Sep2025 22:30:38.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 22:30:44.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> disc se bugio
+[08Sep2025 22:30:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> pura mielda?
+[08Sep2025 22:30:47.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 22:30:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> se cayo
+[08Sep2025 22:30:56.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> llam
+[08Sep2025 22:31:06.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Fetch Me Their Souls!]
+[08Sep2025 22:31:57.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Long Time Ago]
+[08Sep2025 22:32:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has completed the challenge [The Ancient Skeleton]
