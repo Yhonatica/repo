@@ -977,3 +977,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [08Sep2025 22:31:06.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Fetch Me Their Souls!]
 [08Sep2025 22:31:57.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Long Time Ago]
 [08Sep2025 22:32:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has completed the challenge [The Ancient Skeleton]
+[08Sep2025 22:33:25.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was killed
+[08Sep2025 22:33:25.827] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_08.09.2025-22.33.25.dat
+[08Sep2025 22:33:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Killed Konnorcito]
+[08Sep2025 22:33:32.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:35:39.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 22:35:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 22:36:18.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 22:36:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 22:36:51.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 22:36:57.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 22:37:36.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Another Brick in the Wall]
+[08Sep2025 22:37:54.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:39:26.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 22:39:29.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 22:40:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:42:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[08Sep2025 22:42:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Double Trouble]
+[08Sep2025 22:42:08.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was blown up by Kilkov_
+[08Sep2025 22:42:08.555] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_08.09.2025-22.42.08.dat
+[08Sep2025 22:42:23.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[08Sep2025 22:42:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]

@@ -2771,6 +2771,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-09-08 22:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-09-08 22:13:04 +0000"
@@ -2840,6 +2846,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-08 21:03:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-09-08 22:38:06 +0000"
     },
     "done": true
   },
@@ -3113,6 +3125,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-09-08 22:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-09-08 22:02:03 +0000"
@@ -3152,6 +3170,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-09-08 21:18:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-09-08 22:37:36 +0000"
     },
     "done": true
   },
