@@ -881,3 +881,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [08Sep2025 21:10:05.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
 [08Sep2025 21:10:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [08Sep2025 21:12:59.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [Wrong Santa]
+[08Sep2025 21:20:14.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Enchanter]
+[08Sep2025 21:20:19.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> me escuchaste?
+[08Sep2025 21:21:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[08Sep2025 21:21:31.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[08Sep2025 21:22:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> z
+[08Sep2025 21:22:47.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzz
+[08Sep2025 21:22:48.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzz
+[08Sep2025 21:22:50.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zz
+[08Sep2025 21:25:21.221] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-224, y=-4, z=2558}
+[08Sep2025 21:25:21.221] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-224, y=-4, z=2558}
+[08Sep2025 21:25:21.222] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-224, y=-4, z=2558}
+[08Sep2025 21:25:40.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Fatty Demon]
+[08Sep2025 21:26:50.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[08Sep2025 21:26:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[08Sep2025 21:26:56.840] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-369, y=-36, z=2881}
+[08Sep2025 21:26:56.840] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-371, y=-36, z=2881}
+[08Sep2025 21:27:23.691] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-476, y=-48, z=2767}
