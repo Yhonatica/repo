@@ -4519,7 +4519,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-09-08 22:23:28 +0000",
-      "minecraft:soul_sand_valley": "2025-09-08 22:21:24 +0000"
+      "minecraft:soul_sand_valley": "2025-09-08 22:21:24 +0000",
+      "minecraft:nether_wastes": "2025-09-08 23:13:10 +0000"
     },
     "done": false
   },
@@ -4532,6 +4533,24 @@
   "nethers_exorcism_reborn:glandget": {
     "criteria": {
       "glandget_0": "2025-09-08 22:58:20 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:enterturquosieplains": {
+    "criteria": {
+      "enterturquosieplains_0": "2025-09-08 23:06:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-09-08 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:enter_dna_forest": {
+    "criteria": {
+      "enter_dna_forest_0": "2025-09-08 22:59:04 +0000"
     },
     "done": true
   },
@@ -4559,9 +4578,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:encountersalamander": {
+    "criteria": {
+      "encountersalamander_0": "2025-09-08 22:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-08 23:06:38 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
       "nest": "2025-09-08 22:31:57 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-09-08 23:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:bravest_of_warrior": {
+    "criteria": {
+      "bravest_of_warrior_0": "2025-09-08 23:09:26 +0000"
     },
     "done": true
   },
@@ -4571,9 +4638,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:drifterstructure": {
+    "criteria": {
+      "drifterstructure_0": "2025-09-08 23:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-08 23:06:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-09-08 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
     },
     "done": true
   },
@@ -4589,9 +4680,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:open_vault": {
+    "criteria": {
+      "open_vault_0": "2025-09-08 23:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-09-08 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-09-08 23:13:44 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2025-09-08 22:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-08 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-08 23:06:38 +0000"
     },
     "done": true
   },
