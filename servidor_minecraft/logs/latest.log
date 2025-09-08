@@ -1143,3 +1143,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [08Sep2025 23:22:40.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [08Sep2025 23:22:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Hidden in the Depths]
 [08Sep2025 23:22:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ./tp 851 112 4069
+[08Sep2025 23:23:52.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[08Sep2025 23:24:19.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[08Sep2025 23:28:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asdd
+[08Sep2025 23:29:02.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[08Sep2025 23:29:11.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[08Sep2025 23:29:11.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[08Sep2025 23:29:19.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54955] logged in with entity id 84435 at (-381.36253197155344, 38.0, 55.99527818002185)
+[08Sep2025 23:29:19.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[08Sep2025 23:29:19.097] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[08Sep2025 23:29:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[08Sep2025 23:29:36.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[08Sep2025 23:29:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game

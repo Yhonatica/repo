@@ -80,6 +80,7 @@
       "minecraft:cold_ocean": "2025-09-08 20:56:25 +0000",
       "minecraft:forest": "2025-09-06 01:54:11 +0000",
       "minecraft:ice_spikes": "2025-09-06 22:33:06 +0000",
+      "minecraft:frozen_ocean": "2025-09-08 23:20:25 +0000",
       "minecraft:desert": "2025-09-06 03:01:24 +0000",
       "minecraft:jungle": "2025-09-06 02:55:56 +0000",
       "minecraft:ocean": "2025-09-06 02:39:15 +0000",
@@ -2767,6 +2768,12 @@
     },
     "done": true
   },
+  "nethers_exorcism_reborn:enter_dna_forest": {
+    "criteria": {
+      "enter_dna_forest_0": "2025-09-08 23:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-09-08 22:01:59 +0000"
@@ -2776,6 +2783,12 @@
   "gnumus:fatty_demon": {
     "criteria": {
       "fatty_demon": "2025-09-08 21:25:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-09-08 23:20:51 +0000"
     },
     "done": true
   },
@@ -2812,6 +2825,12 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-09-08 22:06:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-09-08 23:20:51 +0000"
     },
     "done": true
   },
@@ -2905,9 +2924,21 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-09-08 23:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-08 21:24:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-08 23:20:51 +0000"
     },
     "done": true
   },
@@ -2920,6 +2951,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-08 21:03:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-09-08 23:20:51 +0000"
     },
     "done": true
   },
@@ -3025,6 +3062,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-09-08 23:20:42 +0000"
+    },
+    "done": true
+  },
   "nethers_exorcism_reborn:nether_exorcism": {
     "criteria": {
       "nether_exorcism_0": "2025-09-08 22:54:19 +0000"
@@ -3118,6 +3161,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-09-08 21:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-08 23:20:07 +0000"
     },
     "done": true
   },
@@ -3277,6 +3326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-08 23:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-09-08 23:16:52 +0000"
@@ -3295,9 +3350,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-08 23:19:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-09-08 23:17:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-09-08 23:20:51 +0000"
     },
     "done": true
   },
