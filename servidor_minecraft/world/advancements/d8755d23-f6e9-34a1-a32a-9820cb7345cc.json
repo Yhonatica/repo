@@ -4529,6 +4529,12 @@
     },
     "done": true
   },
+  "nethers_exorcism_reborn:glandget": {
+    "criteria": {
+      "glandget_0": "2025-09-08 22:58:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2025-09-08 22:39:08 +0000"
@@ -4538,6 +4544,12 @@
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-09-08 22:31:06 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:bi_ohazardou_sd_eltas": {
+    "criteria": {
+      "bi_ohazardou_sd_eltas_0": "2025-09-08 22:51:34 +0000"
     },
     "done": true
   },
@@ -4553,6 +4565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-08 22:50:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-09-08 22:39:08 +0000"
@@ -4562,6 +4580,24 @@
   "legendary_monsters:defeat_skeletosaurus": {
     "criteria": {
       "skeletosaurus": "2025-09-08 22:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-09-08 22:50:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-08 22:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-08 22:50:29 +0000"
     },
     "done": true
   },

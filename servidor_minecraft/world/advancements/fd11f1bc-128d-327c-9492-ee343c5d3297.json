@@ -2747,6 +2747,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-09-08 22:54:20 +0000",
+      "minecraft:soul_sand_valley": "2025-09-08 22:54:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-09-08 21:37:08 +0000"
@@ -2768,6 +2775,12 @@
   "gnumus:fatty_demon": {
     "criteria": {
       "fatty_demon": "2025-09-08 21:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-08 22:54:19 +0000"
     },
     "done": true
   },
@@ -2804,6 +2817,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-09-08 21:24:09 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:bi_ohazardou_sd_eltas": {
+    "criteria": {
+      "bi_ohazardou_sd_eltas_0": "2025-09-08 22:54:19 +0000"
     },
     "done": true
   },
@@ -3005,6 +3024,12 @@
     },
     "done": true
   },
+  "nethers_exorcism_reborn:nether_exorcism": {
+    "criteria": {
+      "nether_exorcism_0": "2025-09-08 22:54:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-09-08 21:24:09 +0000"
@@ -3044,6 +3069,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-09-08 22:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-08 22:54:19 +0000"
     },
     "done": true
   },
