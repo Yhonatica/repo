@@ -44,3 +44,30 @@
 [09Sep2025 00:23:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
 [09Sep2025 00:23:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [09Sep2025 00:24:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[09Sep2025 00:25:36.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[09Sep2025 00:26:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[09Sep2025 00:26:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[09Sep2025 00:28:37.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ fell from a high place
+[09Sep2025 00:28:37.139] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.bee_09.09.2025-00.28.37.dat
+[09Sep2025 00:28:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[09Sep2025 00:29:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[09Sep2025 00:30:01.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[09Sep2025 00:30:18.154] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-237, y=-42, z=-390}
+[09Sep2025 00:30:18.154] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-237, y=-42, z=-388}
+[09Sep2025 00:30:21.092] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-240, y=-16, z=-390}
+[09Sep2025 00:30:25.657] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-305, y=-34, z=-388}
+[09Sep2025 00:30:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[09Sep2025 00:30:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[09Sep2025 00:31:04.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[09Sep2025 00:31:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[09Sep2025 00:32:02.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[09Sep2025 00:32:08.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[09Sep2025 00:32:18.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[09Sep2025 00:32:26.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[09Sep2025 00:32:38.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[09Sep2025 00:32:45.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[09Sep2025 00:32:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[09Sep2025 00:33:07.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 10 [Dark Oak Planks] to Kilkov_]
+[09Sep2025 00:33:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[09Sep2025 00:33:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[09Sep2025 00:33:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
