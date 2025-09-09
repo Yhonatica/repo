@@ -4863,6 +4863,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-09 00:39:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-09-09 00:17:39 +0000"

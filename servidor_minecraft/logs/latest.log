@@ -71,3 +71,21 @@
 [09Sep2025 00:33:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
 [09Sep2025 00:33:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
 [09Sep2025 00:33:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[09Sep2025 00:35:04.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[09Sep2025 00:35:19.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[09Sep2025 00:39:56.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Best Friends Forever]
+[09Sep2025 00:41:46.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of Konnorcito) moved wrongly! 0.27710237119788417
+[09Sep2025 00:41:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of Konnorcito) moved wrongly! 0.6715637727367039
+[09Sep2025 00:41:46.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of Konnorcito) moved wrongly! 1.1528540926350468
+[09Sep2025 00:43:38.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[09Sep2025 00:43:41.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[09Sep2025 00:43:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[09Sep2025 00:43:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[09Sep2025 00:43:50.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[09Sep2025 00:43:52.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[09Sep2025 00:43:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[09Sep2025 00:43:58.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[09Sep2025 00:44:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[09Sep2025 00:44:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[09Sep2025 00:44:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[09Sep2025 00:44:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
