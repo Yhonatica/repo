@@ -346,3 +346,10 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [09Sep2025 01:31:21.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
 [09Sep2025 01:31:21.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
 [09Sep2025 01:31:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ta bien
+[09Sep2025 01:44:03.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 805.500000, 117.000000, 3904.500000]
+[09Sep2025 01:44:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 805.500000, 117.000000, 3904.500000]
+[09Sep2025 01:44:05.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[09Sep2025 01:44:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[09Sep2025 01:45:38.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Nightmare Fuel]
+[09Sep2025 01:45:53.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> 111 55 489
+[09Sep2025 01:45:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 111.500000, 55.000000, 489.500000]
