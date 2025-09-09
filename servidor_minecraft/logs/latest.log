@@ -96,3 +96,20 @@
 [09Sep2025 00:52:14.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
 [09Sep2025 00:52:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
 [09Sep2025 00:54:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[09Sep2025 00:57:18.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[09Sep2025 00:58:23.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[09Sep2025 00:58:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[09Sep2025 00:58:23.323] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Sep2025 00:59:18.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63176] logged in with entity id 121196 at (834.964522893871, 118.7531999805212, 4062.4212624586107)
+[09Sep2025 00:59:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[09Sep2025 00:59:18.435] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[09Sep2025 01:00:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin moved too quickly! 3.2305294119757946,3.176759275064242,9.04056490411449
+[09Sep2025 01:01:34.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[09Sep2025 01:01:34.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[09Sep2025 01:01:39.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63193] logged in with entity id 122298 at (836.8908684024327, 112.0, 4054.785538310977)
+[09Sep2025 01:01:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[09Sep2025 01:01:39.323] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[09Sep2025 01:04:19.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[09Sep2025 01:05:37.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> *no*
+[09Sep2025 01:05:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Made Chat a server operator]
+[09Sep2025 01:05:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> *no

@@ -12,6 +12,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "85f156f3-e903-4db9-b8f4-0b63fc0c92a9",
+    "name": "Chat",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "fd11f1bc-128d-327c-9492-ee343c5d3297",
     "name": "Kilkov_",
     "level": 4,
