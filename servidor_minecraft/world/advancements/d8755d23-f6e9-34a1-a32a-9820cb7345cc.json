@@ -80,6 +80,7 @@
       "minecraft:snowy_plains": "2025-09-06 22:15:40 +0000",
       "minecraft:dripstone_caves": "2025-09-06 02:08:37 +0000",
       "minecraft:snowy_taiga": "2025-09-06 22:16:25 +0000",
+      "minecraft:grove": "2025-09-09 01:24:48 +0000",
       "minecraft:cold_ocean": "2025-09-06 06:44:10 +0000",
       "minecraft:forest": "2025-09-06 02:38:50 +0000",
       "minecraft:lush_caves": "2025-09-06 02:32:14 +0000",
@@ -4827,15 +4828,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
-    "criteria": {
-      "has_item": "2025-09-09 00:17:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-09-08 23:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-09 00:09:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-09-09 00:17:39 +0000"
     },
     "done": true
   },
@@ -4851,13 +4858,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
-      "has_netherite_scrap": "2025-09-09 00:09:39 +0000"
+      "has_item": "2025-09-09 00:17:39 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
+  "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-09-09 00:17:39 +0000"
     },
@@ -4869,9 +4876,69 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
-      "has_item": "2025-09-09 00:17:39 +0000"
+      "has_item": "2025-09-09 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_17": "2025-09-09 01:29:00 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-09-09 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-09-09 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-09-09 01:26:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-09 01:26:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_8": "2025-09-09 01:28:43 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-09-09 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-09-09 01:28:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-09-09 01:26:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-09-09 01:27:03 +0000"
     },
     "done": true
   },
