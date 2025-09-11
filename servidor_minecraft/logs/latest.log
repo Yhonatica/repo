@@ -1,374 +1,925 @@
-[09Sep2025 00:03:21.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63495] logged in with entity id 93925 at (810.8241277755332, 117.875, 3908.121028478315)
-[09Sep2025 00:03:21.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[09Sep2025 00:03:21.141] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
-[09Sep2025 00:13:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[09Sep2025 00:19:15.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-655, y=-17, z=-564}
-[09Sep2025 00:19:15.349] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-654, y=-17, z=-564}
-[09Sep2025 00:19:33.444] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-720, y=-50, z=-710}
-[09Sep2025 00:19:48.386] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-779, y=-50, z=-516}
-[09Sep2025 00:19:48.387] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-779, y=-50, z=-514}
-[09Sep2025 00:19:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:19:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:20:10.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:20:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:21:06.133] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-657, y=-27, z=-353}
-[09Sep2025 00:21:06.134] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-657, y=-27, z=-353}
-[09Sep2025 00:21:06.134] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-657, y=-27, z=-353}
-[09Sep2025 00:21:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:21:24.631] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-955, y=-47, z=-303}
-[09Sep2025 00:21:28.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:21:32.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:21:36.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:21:42.934] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-824, y=-8, z=-213}
-[09Sep2025 00:21:47.086] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-983, y=-49, z=-197}
-[09Sep2025 00:21:47.086] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-982, y=-49, z=-197}
-[09Sep2025 00:21:49.634] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-881, y=-7, z=-175}
-[09Sep2025 00:21:49.635] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-883, y=-7, z=-175}
-[09Sep2025 00:21:59.281] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-967, y=6, z=-166}
-[09Sep2025 00:22:04.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:22:06.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:22:08.027] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-755, y=2, z=-114}
-[09Sep2025 00:22:10.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:22:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:22:14.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:22:16.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:22:34.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:62828] logged in with entity id 103889 at (839.5346044278369, 118.0, 4061.2598901103174)
-[09Sep2025 00:22:34.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 00:22:35.022] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 00:22:46.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:22:48.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:22:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:22:52.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:23:06.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:23:07.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:23:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:23:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:24:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[09Sep2025 00:25:36.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
-[09Sep2025 00:26:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
-[09Sep2025 00:26:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[09Sep2025 00:28:37.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ fell from a high place
-[09Sep2025 00:28:37.139] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.bee_09.09.2025-00.28.37.dat
-[09Sep2025 00:28:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[09Sep2025 00:29:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:30:01.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[09Sep2025 00:30:18.154] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-237, y=-42, z=-390}
-[09Sep2025 00:30:18.154] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-237, y=-42, z=-388}
-[09Sep2025 00:30:21.092] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-240, y=-16, z=-390}
-[09Sep2025 00:30:25.657] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-305, y=-34, z=-388}
-[09Sep2025 00:30:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[09Sep2025 00:30:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[09Sep2025 00:31:04.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[09Sep2025 00:31:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[09Sep2025 00:32:02.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
-[09Sep2025 00:32:08.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[09Sep2025 00:32:18.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[09Sep2025 00:32:26.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[09Sep2025 00:32:38.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[09Sep2025 00:32:45.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
-[09Sep2025 00:32:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[09Sep2025 00:33:07.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 10 [Dark Oak Planks] to Kilkov_]
-[09Sep2025 00:33:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
-[09Sep2025 00:33:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
-[09Sep2025 00:33:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
-[09Sep2025 00:35:04.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[09Sep2025 00:35:19.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
-[09Sep2025 00:39:56.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Best Friends Forever]
-[09Sep2025 00:41:46.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of Konnorcito) moved wrongly! 0.27710237119788417
-[09Sep2025 00:41:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of Konnorcito) moved wrongly! 0.6715637727367039
-[09Sep2025 00:41:46.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeloraptor (vehicle of Konnorcito) moved wrongly! 1.1528540926350468
-[09Sep2025 00:43:38.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:43:41.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:43:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:43:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:43:50.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:43:52.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:43:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:43:58.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:44:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:44:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:44:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 00:44:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 00:47:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
-[09Sep2025 00:47:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
-[09Sep2025 00:51:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[09Sep2025 00:52:10.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[09Sep2025 00:52:14.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[09Sep2025 00:52:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
-[09Sep2025 00:54:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[09Sep2025 00:57:18.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
-[09Sep2025 00:58:23.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 00:58:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 00:58:23.323] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[09Sep2025 00:59:18.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63176] logged in with entity id 121196 at (834.964522893871, 118.7531999805212, 4062.4212624586107)
-[09Sep2025 00:59:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 00:59:18.435] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:00:57.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin moved too quickly! 3.2305294119757946,3.176759275064242,9.04056490411449
-[09Sep2025 01:01:34.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:01:34.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:01:39.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63193] logged in with entity id 122298 at (836.8908684024327, 112.0, 4054.785538310977)
-[09Sep2025 01:01:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:01:39.323] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:04:19.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
-[09Sep2025 01:05:37.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> *no*
-[09Sep2025 01:05:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Made Chat a server operator]
-[09Sep2025 01:05:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> *no
-[09Sep2025 01:05:52.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> *********Dioses**************
-[09Sep2025 01:05:53.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> no
-[09Sep2025 01:06:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> LA ELE
-[09Sep2025 01:06:12.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> dioshe pofavo regalame un buebito de argentavis pofavo
-[09Sep2025 01:06:17.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ********************
-[09Sep2025 01:06:18.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> No
-[09Sep2025 01:06:24.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> te doy 64 bloques de esmeraldas
-[09Sep2025 01:06:25.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> no hay vida compai
-[09Sep2025 01:06:29.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> de diamantes
-[09Sep2025 01:06:33.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> "los dioses dicen shi"
-[09Sep2025 01:06:50.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin moved too quickly! -9.76223421905172,-0.7953996215565695,2.8370026651000444
-[09Sep2025 01:06:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> no
-[09Sep2025 01:07:01.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:07:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:07:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Kicked Konnorcito: Kicked by an operator]
-[09Sep2025 01:07:06.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Kicked by an operator
-[09Sep2025 01:07:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
-[09Sep2025 01:07:10.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63234] logged in with entity id 123780 at (792.324151361416, 111.7531999805212, 3987.463173565825)
-[09Sep2025 01:07:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:07:10.917] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:07:13.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:55814] logged in with entity id 123840 at (815.9739924358458, 110.0, 4037.904914724961)
-[09Sep2025 01:07:13.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
-[09Sep2025 01:07:13.086] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
-[09Sep2025 01:07:30.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Gave 1 [Argentavis Egg] to Konnorcito]
-[09Sep2025 01:07:40.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
-[09Sep2025 01:07:40.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:07:50.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63249] logged in with entity id 124054 at (792.324151361416, 111.7531999805212, 3987.463173565825)
-[09Sep2025 01:07:50.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:07:50.478] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:08:29.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
-[09Sep2025 01:08:29.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:08:35.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63260] logged in with entity id 124403 at (792.324151361416, 111.7531999805212, 3987.463173565825)
-[09Sep2025 01:08:35.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:08:35.286] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:09:05.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
-[09Sep2025 01:09:05.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:09:19.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63266] logged in with entity id 124596 at (792.324151361416, 111.7531999805212, 3987.463173565825)
-[09Sep2025 01:09:19.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:09:19.723] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:09:35.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:09:35.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:09:59.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63285] logged in with entity id 124888 at (792.324151361416, 111.28904060556576, 3987.463173565825)
-[09Sep2025 01:09:59.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:09:59.136] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:10:31.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:10:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:12:02.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63428] logged in with entity id 125270 at (792.324151361416, 111.28904060556576, 3987.463173565825)
-[09Sep2025 01:12:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:12:02.681] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:12:51.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:12:51.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:13:01.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63439] logged in with entity id 125405 at (792.324151361416, 111.05540859952328, 3987.463173565825)
-[09Sep2025 01:13:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:13:01.783] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:14:01.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
-[09Sep2025 01:14:01.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:14:13.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63458] logged in with entity id 125665 at (792.324151361416, 111.05540859952328, 3987.463173565825)
-[09Sep2025 01:14:13.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:14:13.784] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:14:47.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Gave 1 [Argentavis Egg] to Konnorcito]
-[09Sep2025 01:14:48.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:14:48.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:14:58.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63474] logged in with entity id 125825 at (792.324151361416, 111.05540859952328, 3987.463173565825)
-[09Sep2025 01:14:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:14:58.300] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:15:09.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Gave 1 [Argentavis Spawn Egg] to Konnorcito]
-[09Sep2025 01:15:40.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
-[09Sep2025 01:15:40.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:15:56.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63486] logged in with entity id 126127 at (792.324151361416, 111.05540859952328, 3987.463173565825)
-[09Sep2025 01:15:56.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:15:56.093] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:16:56.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:16:56.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:21:34.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Junior Summoner]
-[09Sep2025 01:23:12.763] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-[09Sep2025 01:23:12.764] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@2f3fb153, suppressing error
-java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at com.modderg.tameablebeasts.server.entity.TBRideable.messageRiding(TBRideable.java:55) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at com.modderg.tameablebeasts.server.entity.FlyingRideableTBAnimal.m_6071_(FlyingRideableTBAnimal.java:82) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at com.modderg.tameablebeasts.server.entity.custom.ArgentavisEntity.m_6071_(ArgentavisEntity.java:68) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at net.minecraft.world.entity.Mob.m_6096_(Mob.java:1122) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+[11Sep2025 19:30:57.210] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[11Sep2025 19:30:57.216] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[11Sep2025 19:30:58.182] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11Sep2025 19:30:58.237] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/repo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11Sep2025 19:30:58.513] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/repo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[11Sep2025 19:30:58.514] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/repo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Sep2025 19:30:58.515] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/repo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Sep2025 19:30:58.516] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/repo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Sep2025 19:30:58.709] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[11Sep2025 19:31:00.661] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11Sep2025 19:31:00.735] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[11Sep2025 19:31:00.737] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[11Sep2025 19:31:00.755] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Sep2025 19:31:00.867] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[11Sep2025 19:31:00.994] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Sep2025 19:31:02.457] [main/WARN] [mixin/]: Error loading class: com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity (java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Ancient_Remnant.Ancient_Remnant_Entity)
+[11Sep2025 19:31:02.463] [main/WARN] [mixin/]: Error loading class: com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ender_Guardian_Entity (java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.AnimationMonster.BossMonsters.Ender_Guardian_Entity)
+[11Sep2025 19:31:02.465] [main/WARN] [mixin/]: Error loading class: com/eeeab/eeeabsmobs/sever/entity/corpse/EntityCorpseWarlock (java.lang.ClassNotFoundException: com.eeeab.eeeabsmobs.sever.entity.corpse.EntityCorpseWarlock)
+[11Sep2025 19:31:02.468] [main/WARN] [mixin/]: Error loading class: com/eeeab/eeeabsmobs/sever/entity/guling/EntityGulingSentinelHeavy (java.lang.ClassNotFoundException: com.eeeab.eeeabsmobs.sever.entity.guling.EntityGulingSentinelHeavy)
+[11Sep2025 19:31:02.472] [main/WARN] [mixin/]: Error loading class: com/majruszsdifficulty/treasurebag/listeners/KillRewarder (java.lang.ClassNotFoundException: com.majruszsdifficulty.treasurebag.listeners.KillRewarder)
+[11Sep2025 19:31:02.474] [main/WARN] [mixin/]: Error loading class: com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Maledictus/Maledictus_Entity (java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Maledictus.Maledictus_Entity)
+[11Sep2025 19:31:02.480] [main/WARN] [mixin/]: Error loading class: com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/NewNetherite_Monstrosity/Netherite_Monstrosity_Entity (java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.NewNetherite_Monstrosity.Netherite_Monstrosity_Entity)
+[11Sep2025 19:31:02.482] [main/WARN] [mixin/]: Error loading class: com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Scylla/Scylla_Entity (java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Scylla.Scylla_Entity)
+[11Sep2025 19:31:02.493] [main/WARN] [mixin/]: Error loading class: com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Harbinger_Entity (java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.AnimationMonster.BossMonsters.The_Harbinger_Entity)
+[11Sep2025 19:31:02.495] [main/WARN] [mixin/]: Error loading class: com/Polarice3/Goety/common/entities/boss/Vizier (java.lang.ClassNotFoundException: com.Polarice3.Goety.common.entities.boss.Vizier)
+[11Sep2025 19:31:02.656] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11Sep2025 19:31:11.084] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[11Sep2025 19:31:11.104] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[11Sep2025 19:31:11.105] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[11Sep2025 19:31:11.106] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[11Sep2025 19:31:11.111] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[11Sep2025 19:31:11.114] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[11Sep2025 19:31:11.116] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[11Sep2025 19:31:11.119] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[11Sep2025 19:31:11.326] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered mobs_of_mythology config for auto-sync function
+[11Sep2025 19:31:11.397] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[11Sep2025 19:31:11.682] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[11Sep2025 19:31:11.686] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[11Sep2025 19:31:11.882] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[11Sep2025 19:31:13.517] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mobs_of_mythology:kobold] was not realized!
+[11Sep2025 19:31:13.517] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mobs_of_mythology:kobold_warrior] was not realized!
+[11Sep2025 19:31:13.517] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mobs_of_mythology:chupacabra] was not realized!
+[11Sep2025 19:31:13.517] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mobs_of_mythology:drake] was not realized!
+[11Sep2025 19:31:13.517] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mobs_of_mythology:automaton] was not realized!
+[11Sep2025 19:31:13.518] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mobs_of_mythology:sporeling] was not realized!
+[11Sep2025 19:31:13.779] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
+[11Sep2025 19:31:13.784] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
+[11Sep2025 19:31:13.795] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[11Sep2025 19:31:13.843] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.AnimatedMonster.Mobs.Shulker_MimicEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.Old.OldShulkerMimic
+[11Sep2025 19:31:13.844] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.AnimatedMonster.IAnimatedBoss.CloudGolem.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
+[11Sep2025 19:31:13.845] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.AnimatedMonster.IAnimatedBoss.CloudGolem.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
+[11Sep2025 19:31:13.845] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.AnimatedMonster.IAnimatedBoss.CloudGolem.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
+[11Sep2025 19:31:13.900] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/repo/servidor_minecraft/config/companions.toml is not correct. Correcting
+[11Sep2025 19:31:13.969] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/repo/servidor_minecraft/config/knightlib.toml is not correct. Correcting
+[11Sep2025 19:31:14.032] [modloading-worker-0/INFO] [net.imasillylittleguy.cnc.CncMod/]: Loaded Critters n' Crawlers... tread lightly for there be beasts in these woods...
+[11Sep2025 19:31:14.094] [modloading-worker-0/INFO] [net.jrdemiurge.skyarena.SkyArena/]: Registering triggers...
+[11Sep2025 19:31:14.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Starting version check at https://raw.githubusercontent.com/endcollector/critters-n-crawlers-updater/main/update.json
+[11Sep2025 19:31:14.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Found status: OUTDATED Current: 2.2.4 Target: 2.2.5
+[11Sep2025 19:31:14.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[11Sep2025 19:31:14.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.40 Target: null
+[11Sep2025 19:31:14.276] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[11Sep2025 19:31:14.303] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[11Sep2025 19:31:14.303] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[11Sep2025 19:31:14.304] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[11Sep2025 19:31:14.304] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[11Sep2025 19:31:14.350] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[11Sep2025 19:31:14.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[11Sep2025 19:31:14.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[11Sep2025 19:31:14.401] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[11Sep2025 19:31:14.429] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[11Sep2025 19:31:14.433] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[11Sep2025 19:31:14.434] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[11Sep2025 19:31:14.435] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[11Sep2025 19:31:14.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.2 Target: 1.1.2+mod
+[11Sep2025 19:31:14.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Sep2025 19:31:14.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[11Sep2025 19:31:16.128] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Sep2025 19:31:17.137] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/repo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[11Sep2025 19:31:17.137] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/repo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[11Sep2025 19:31:18.506] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[11Sep2025 19:31:19.505] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11Sep2025 19:31:20.231] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ati_structures:chests/archer_chest
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11Sep2025 19:31:21.144] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:trapdoor_to_planks
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.162] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:fdelight_slice_salamander
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.182] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:log_to_planks_create
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.189] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:fdelight_cooked_slice
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.191] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:turquoisebamboo_tostripped
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.195] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:strip_log_to_planks_create
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.201] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:stripped_turq_toplankscreate
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.207] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:strip_hyphae_to_planks_create
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.211] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ender_hammer
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ender_hammer'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.216] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:turq_log_toplankscreate
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.218] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:indigo_log_strip_cutting
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.229] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:hyphae_to_strip_hyphae_create
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.231] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:door_to_planks
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.232] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:turquoisewoodstrip
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.237] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:log_to_strip_log_create
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.238] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:hyphae_to_p_lanks_create
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.256] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:indigo_wood_strip
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.259] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:trqtrapdoortoplanks
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.263] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:electrumarmorcraft
+com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_block'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23180!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.267] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:doortoplanks_2
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[11Sep2025 19:31:21.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[11Sep2025 19:31:21.363] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement legendary_monsters:defeat_ambusher: Expected item to be an item, was unknown string 'legendary_monsters:ancient_dripstone_shard'
+[11Sep2025 19:31:21.391] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2170 advancements
+[11Sep2025 19:31:21.402] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[11Sep2025 19:31:21.408] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[11Sep2025 19:31:21.442] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: c:mountain
+[11Sep2025 19:31:22.108] [main/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[11Sep2025 19:31:22.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[11Sep2025 19:31:22.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Sep2025 19:31:22.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Sep2025 19:31:22.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Sep2025 19:31:22.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Sep2025 19:31:22.407] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Sep2025 19:31:22.488] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Sep2025 19:31:22.488] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Sep2025 19:31:22.488] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Sep2025 19:31:22.489] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Sep2025 19:31:22.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Sep2025 19:31:26.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Sep2025 19:31:30.343] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.384] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.402] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.486] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.495] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.511] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.518] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.523] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.528] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:30.528] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:31.039] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Sep2025 19:31:31.485] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18760_(ProcessorMailbox.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_6937_(ProcessorMailbox.java:124) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture.uniApplyNow(CompletableFuture.java:681) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniApplyStage(CompletableFuture.java:662) ~[?:?]
+	at java.util.concurrent.CompletableFuture.thenApplyAsync(CompletableFuture.java:2178) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141930_(EntityStorage.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157562_(PersistentEntitySectionManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157555_(PersistentEntitySectionManager.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:603) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287043_(ChunkHolder.java:334) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
 	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.MinecraftServer.m_129940_(MinecraftServer.java:459) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:310) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[09Sep2025 01:23:53.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=876, y=-16, z=3380}
-[09Sep2025 01:23:56.896] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=731, y=-21, z=3271}
-[09Sep2025 01:23:56.896] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=730, y=-21, z=3271}
-[09Sep2025 01:23:58.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argentavis (vehicle of Konnorcito) moved wrongly! 0.3115202144496152
-[09Sep2025 01:23:58.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Argentavis (vehicle of Konnorcito) moved wrongly! 1.0802597266443925
-[09Sep2025 01:24:25.060] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=801, y=10, z=3084} but found not block entity block Block{minecraft:water}[level=0] at location
-[09Sep2025 01:24:25.061] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=801, y=10, z=3084}
-[09Sep2025 01:24:26.588] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=738, y=-21, z=3016}
-[09Sep2025 01:24:26.588] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=739, y=-21, z=3016}
-[09Sep2025 01:24:41.100] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=650, y=-38, z=2675}
-[09Sep2025 01:24:41.100] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=651, y=-38, z=2675}
-[09Sep2025 01:24:41.100] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=688, y=10, z=2681}
-[09Sep2025 01:24:47.604] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=750, y=21, z=2551}
-[09Sep2025 01:24:56.284] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=720, y=-53, z=2446}
-[09Sep2025 01:26:41.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63563] logged in with entity id 134179 at (792.324151361416, 111.05540859952328, 3987.463173565825)
-[09Sep2025 01:26:41.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:26:41.781] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:26:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Sea? Not a Problem]
-[09Sep2025 01:27:01.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> no tas disc
-[09Sep2025 01:27:11.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:27:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:27:25.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63589] logged in with entity id 134494 at (792.324151361416, 111.05540859952328, 3987.463173565825)
-[09Sep2025 01:27:25.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[09Sep2025 01:27:25.234] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
-[09Sep2025 01:28:09.056] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-[09Sep2025 01:28:09.056] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@5db38297, suppressing error
-java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at com.modderg.tameablebeasts.server.entity.TBRideable.messageRiding(TBRideable.java:55) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at com.modderg.tameablebeasts.server.entity.FlyingRideableTBAnimal.m_6071_(FlyingRideableTBAnimal.java:82) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at com.modderg.tameablebeasts.server.entity.custom.ArgentavisEntity.m_6071_(ArgentavisEntity.java:68) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at net.minecraft.world.entity.Mob.m_6096_(Mob.java:1122) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[09Sep2025 01:28:25.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[09Sep2025 01:28:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[09Sep2025 01:28:59.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Grave Ravager]
-[09Sep2025 01:29:14.577] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-[09Sep2025 01:29:14.577] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@5c5010aa, suppressing error
-java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at com.modderg.tameablebeasts.server.entity.TBRideable.messageRiding(TBRideable.java:55) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at com.modderg.tameablebeasts.server.entity.FlyingRideableTBAnimal.m_6071_(FlyingRideableTBAnimal.java:82) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at com.modderg.tameablebeasts.server.entity.custom.ArgentavisEntity.m_6071_(ArgentavisEntity.java:68) ~[tameablebeasts-6.2.jar%23171!/:6.0]
-	at net.minecraft.world.entity.Mob.m_6096_(Mob.java:1122) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[09Sep2025 01:29:41.582] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=208, y=21, z=1540}
-[09Sep2025 01:29:42.680] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=179, y=9, z=1608}
-[09Sep2025 01:29:42.680] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=180, y=9, z=1608}
-[09Sep2025 01:29:43.045] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=187, y=-3, z=1456}
-[09Sep2025 01:29:45.090] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=144, y=-8, z=1798}
-[09Sep2025 01:29:45.090] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=144, y=-8, z=1798}
-[09Sep2025 01:29:45.090] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=144, y=-8, z=1798}
-[09Sep2025 01:29:46.534] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-12, z=1792}
-[09Sep2025 01:29:46.534] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-12, z=1792}
-[09Sep2025 01:29:46.534] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-12, z=1792}
-[09Sep2025 01:29:47.637] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=60, y=-28, z=1628}
-[09Sep2025 01:29:50.896] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-10, y=-3, z=1581}
-[09Sep2025 01:31:21.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
-[09Sep2025 01:31:21.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
-[09Sep2025 01:31:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ta bien
-[09Sep2025 01:44:03.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 805.500000, 117.000000, 3904.500000]
-[09Sep2025 01:44:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 805.500000, 117.000000, 3904.500000]
-[09Sep2025 01:44:05.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[09Sep2025 01:44:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 01:45:38.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Nightmare Fuel]
-[09Sep2025 01:45:53.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> 111 55 489
-[09Sep2025 01:45:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 111.500000, 55.000000, 489.500000]
-[09Sep2025 01:47:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[09Sep2025 01:47:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 01:47:25.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ fell from a high place
-[09Sep2025 01:47:25.667] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.bee_09.09.2025-01.47.25.dat
-[09Sep2025 01:47:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 111.500000, 55.000000, 489.500000]
-[09Sep2025 01:47:37.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
-[09Sep2025 01:47:37.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Killed Kilkov_]
-[09Sep2025 01:47:58.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[09Sep2025 01:48:06.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 01:48:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[09Sep2025 01:48:59.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 01:49:39.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[09Sep2025 01:49:50.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 01:50:22.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[09Sep2025 01:50:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[09Sep2025 01:51:08.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 111.500000, 55.000000, 489.500000]
-[09Sep2025 01:51:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
-[09Sep2025 01:53:25.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[09Sep2025 01:53:25.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	... 50 more
+[11Sep2025 19:31:31.516] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[11Sep2025 19:31:32.009] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[11Sep2025 19:31:32.587] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[11Sep2025 19:31:33.126] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[11Sep2025 19:31:33.509] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[11Sep2025 19:31:33.733] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[11Sep2025 19:31:34.058] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[11Sep2025 19:31:34.060] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[11Sep2025 19:31:34.527] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[11Sep2025 19:31:35.017] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[11Sep2025 19:31:35.227] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9218 ms
+[11Sep2025 19:31:35.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.723s)! For help, type "help"
+[11Sep2025 19:31:35.276] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Sep2025 19:31:35.278] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[11Sep2025 19:31:35.278] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[11Sep2025 19:31:35.456] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 173115 bytes (in 18 string chunks with the size of 10000)
+[11Sep2025 19:31:41.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58765] logged in with entity id 257 at (799.1313786350976, 121.0, 3888.77337344779)
+[11Sep2025 19:31:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[11Sep2025 19:31:41.510] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[11Sep2025 19:32:13.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[11Sep2025 19:32:22.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[11Sep2025 19:32:22.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:51504] logged in with entity id 541 at (792.324151361416, 111.05540859952328, 3987.463173565825)
+[11Sep2025 19:32:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[11Sep2025 19:32:22.969] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[11Sep2025 19:32:32.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> asd
+[11Sep2025 19:32:52.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [We Need to Go Deeper]
+[11Sep2025 19:32:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Nether Exorcism]
+[11Sep2025 19:32:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[11Sep2025 19:32:53.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[11Sep2025 19:32:55.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Nightmare Fuel]
+[11Sep2025 19:33:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Fetch Me Their Souls!]
+[11Sep2025 19:34:12.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[11Sep2025 19:35:23.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Good Demoman]
+[11Sep2025 19:36:38.407] [Server thread/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[11Sep2025 19:37:02.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1495, l='ServerLevel[world]', x=950.50, y=67.00, z=3980.30] died, message: 'Nitwit was slain by Decaying Zombie'
+[11Sep2025 19:38:34.351] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1439, y=-31, z=3994}
+[11Sep2025 19:38:34.351] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1439, y=-31, z=3994}
+[11Sep2025 19:38:34.352] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1439, y=-31, z=3994}
+[11Sep2025 19:39:15.325] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1572, y=-38, z=4135}
+[11Sep2025 19:39:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> 115 55 493
+[11Sep2025 19:40:02.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Radioactive Hell]
+[11Sep2025 19:40:25.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1708, y=-7, z=4342}
+[11Sep2025 19:40:25.598] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[11Sep2025 19:41:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Long Time Ago]
+[11Sep2025 19:43:40.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Bad Cooking!]
+[11Sep2025 19:44:00.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Hidden in the Depths]
+[11Sep2025 19:47:01.004] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2094, y=57, z=4144}
+[11Sep2025 19:47:01.005] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2094, y=57, z=4144}
+[11Sep2025 19:47:01.005] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2094, y=57, z=4144}
+[11Sep2025 19:47:42.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2131, y=-38, z=4173}
+[11Sep2025 19:50:30.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to 115.500000, 55.000000, 493.500000]
+[11Sep2025 19:52:35.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=846, y=115, z=4050} BlockPos{x=846, y=115, z=4049}
+[11Sep2025 19:54:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has completed the challenge [The One - Armed Monster]
+[11Sep2025 19:55:39.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [A Disgusting Worm]
+[11Sep2025 19:58:40.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2158, y=15, z=4930} but found not block entity block Block{minecraft:water}[level=0] at location
+[11Sep2025 19:58:40.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=2158, y=15, z=4930}
+[11Sep2025 20:00:32.924] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Sep2025 20:00:32.937] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
