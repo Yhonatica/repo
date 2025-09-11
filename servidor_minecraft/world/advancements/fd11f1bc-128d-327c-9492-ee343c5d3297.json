@@ -94,6 +94,7 @@
       "minecraft:warm_ocean": "2025-09-11 21:04:39 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-11 20:33:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 02:25:03 +0000",
+      "minecraft:deep_dark": "2025-09-11 23:34:41 +0000",
       "minecraft:meadow": "2025-09-11 22:39:17 +0000",
       "minecraft:savanna": "2025-09-06 02:51:54 +0000",
       "minecraft:plains": "2025-09-06 01:51:17 +0000"
@@ -3778,6 +3779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-09-11 20:54:12 +0000"
@@ -3787,6 +3794,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-09-11 20:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
     },
     "done": true
   },
@@ -3835,6 +3848,12 @@
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-09-11 21:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
     },
     "done": true
   },
@@ -3928,6 +3947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-09-11 20:01:16 +0000"
@@ -3961,6 +3986,12 @@
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-09-11 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
     },
     "done": true
   },
@@ -4036,6 +4067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-09-11 22:01:01 +0000"
@@ -4045,6 +4082,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-09-11 22:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
     },
     "done": true
   },
@@ -4063,6 +4106,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-09-11 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
     },
     "done": true
   },
@@ -4174,6 +4223,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-09-11 21:06:35 +0000"
@@ -4183,6 +4244,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-09-11 21:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
     },
     "done": true
   },
@@ -4228,6 +4295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-09-11 20:40:00 +0000"
@@ -4240,6 +4313,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-11 20:17:05 +0000"
@@ -4249,6 +4334,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-09-11 21:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-11 23:32:34 +0000"
     },
     "done": true
   },
@@ -4279,6 +4370,12 @@
   "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
       "spiky_bug": "2025-09-11 19:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
     },
     "done": true
   },
@@ -4372,6 +4469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-09-11 20:15:07 +0000"
@@ -4408,6 +4511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-09-11 22:01:01 +0000"
@@ -4432,6 +4541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2025-09-11 23:02:04 +0000"
@@ -4441,6 +4556,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-09-11 21:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-11 23:32:22 +0000"
     },
     "done": true
   },
@@ -4483,6 +4604,12 @@
   "gnumus:weight_loss_protection": {
     "criteria": {
       "weight_loss_protection": "2025-09-11 20:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-09-11 23:32:34 +0000"
     },
     "done": true
   },
