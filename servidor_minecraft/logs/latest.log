@@ -1280,3 +1280,6 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [11Sep2025 23:37:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
 [11Sep2025 23:39:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
 [11Sep2025 23:46:21.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[11Sep2025 23:48:32.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[11Sep2025 23:48:32.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[11Sep2025 23:52:46.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has reached the goal [Fighting Nightmares]
