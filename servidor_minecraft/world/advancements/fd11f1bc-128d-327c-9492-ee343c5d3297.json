@@ -611,6 +611,7 @@
       "cooked_mutton": "2025-09-06 02:09:56 +0000",
       "cooked_beef": "2025-09-06 02:15:20 +0000",
       "beef": "2025-09-06 02:46:25 +0000",
+      "baked_potato": "2025-09-11 22:52:55 +0000",
       "porkchop": "2025-09-06 21:51:48 +0000",
       "apple": "2025-09-06 22:47:09 +0000",
       "potato": "2025-09-06 22:07:07 +0000",
@@ -3807,6 +3808,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-09-11 23:02:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed": "2025-09-11 21:24:23 +0000"
@@ -3843,6 +3850,12 @@
     },
     "done": true
   },
+  "skyarena:ice_arena": {
+    "criteria": {
+      "common": "2025-09-11 22:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-11 20:17:05 +0000"
@@ -3858,6 +3871,12 @@
   "iceandfire:recipes/combat/tide_bronze_helmet": {
     "criteria": {
       "has_item": "2025-09-11 21:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-09-11 23:08:41 +0000"
     },
     "done": true
   },
@@ -3915,6 +3934,18 @@
     },
     "done": true
   },
+  "cnc:caribou_advancement": {
+    "criteria": {
+      "caribou_advancement_0": "2025-09-11 22:59:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-09-11 23:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-09-11 21:42:29 +0000"
@@ -3942,6 +3973,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-09-11 22:25:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-09-11 23:02:04 +0000"
     },
     "done": true
   },
@@ -3975,9 +4012,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-09-11 23:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-09-11 20:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-11 22:57:14 +0000"
     },
     "done": true
   },
@@ -4005,9 +4054,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-09-11 23:08:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-09-11 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-09-11 23:02:04 +0000"
     },
     "done": true
   },
@@ -4038,6 +4099,24 @@
   "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
       "has_dragonscales_green": "2025-09-11 21:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-09-11 23:08:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-11 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-09-11 22:55:28 +0000"
     },
     "done": true
   },
@@ -4185,6 +4264,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-09-11 22:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_hoglin_stable": "2025-09-11 22:01:03 +0000"
@@ -4197,6 +4282,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-09-11 23:02:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
       "has_sea_serpent_scales_bronze": "2025-09-11 21:06:35 +0000"
@@ -4206,6 +4297,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-09-11 20:40:00 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-09-11 22:55:28 +0000"
     },
     "done": true
   },
@@ -4335,6 +4432,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-09-11 23:02:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-09-11 21:06:35 +0000"
@@ -4350,6 +4453,12 @@
   "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
       "has_item": "2025-09-11 21:06:35 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-09-11 22:55:28 +0000"
     },
     "done": true
   },

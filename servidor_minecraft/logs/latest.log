@@ -1238,3 +1238,39 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [11Sep2025 22:37:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -417.500000, 69.000000, 3602.500000]
 [11Sep2025 22:38:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
 [11Sep2025 22:39:03.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[11Sep2025 22:54:36.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[11Sep2025 22:54:44.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Icy Crown]
+[11Sep2025 22:54:48.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[11Sep2025 22:54:59.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[11Sep2025 22:55:12.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 9.254827250468736,-4.500000178813934,0.446289109623649
+[11Sep2025 22:55:23.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[11Sep2025 22:56:24.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:52497] logged in with entity id 140794 at (844.7311997240125, 118.0, 4060.5111026354575)
+[11Sep2025 22:56:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[11Sep2025 22:56:24.308] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[11Sep2025 22:57:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[11Sep2025 22:57:12.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[11Sep2025 22:57:41.022] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 22:57:41.023] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[11Sep2025 22:57:41.023] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[11Sep2025 22:57:41.023] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 spiky_shield
+[11Sep2025 22:57:41.023] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 22:59:42.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin fell from a high place
+[11Sep2025 22:59:42.836] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KodaMakuin with unique ID travelersbackpack.standard_11.09.2025-22.59.42.dat
+[11Sep2025 22:59:56.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[11Sep2025 23:00:10.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/143898, l='ServerLevel[world]', x=522.64, y=69.25, z=4700.98] died, message: 'Farmer was frozen by Ice Dragon'
+[11Sep2025 23:00:14.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/143891, l='ServerLevel[world]', x=524.82, y=66.84, z=4697.47] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[11Sep2025 23:00:18.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/143782, l='ServerLevel[world]', x=514.30, y=69.41, z=4678.64] died, message: 'Fisherman was turned to ice by Ice Dragon'
+[11Sep2025 23:00:18.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[11Sep2025 23:00:23.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/143888, l='ServerLevel[world]', x=515.53, y=62.03, z=4689.39] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[11Sep2025 23:00:23.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/143787, l='ServerLevel[world]', x=515.43, y=64.00, z=4688.00] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[11Sep2025 23:02:24.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Magery]
+[11Sep2025 23:02:59.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/143790, l='ServerLevel[world]', x=525.86, y=64.50, z=4695.86] died, message: 'Leatherworker was pricked to death'
+[11Sep2025 23:05:29.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[11Sep2025 23:05:45.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[11Sep2025 23:13:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Senior Summoner]
+[11Sep2025 23:14:08.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[11Sep2025 23:14:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[11Sep2025 23:16:21.224] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[11Sep2025 23:16:21.226] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[11Sep2025 23:24:07.562] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[11Sep2025 23:24:50.263] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
