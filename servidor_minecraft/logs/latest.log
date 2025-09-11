@@ -1227,3 +1227,14 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [11Sep2025 21:56:38.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
 [11Sep2025 22:00:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [How long's this been here?]
 [11Sep2025 22:01:03.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [War Pigs]
+[11Sep2025 22:26:47.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[11Sep2025 22:27:32.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> dread
+[11Sep2025 22:32:01.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> dile q si
+[11Sep2025 22:32:03.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> pa q entre
+[11Sep2025 22:32:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> :v
+[11Sep2025 22:35:51.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[11Sep2025 22:35:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[11Sep2025 22:36:59.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -417.500000, 69.000000, 3602.500000]
+[11Sep2025 22:37:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -417.500000, 69.000000, 3602.500000]
+[11Sep2025 22:38:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[11Sep2025 22:39:03.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]

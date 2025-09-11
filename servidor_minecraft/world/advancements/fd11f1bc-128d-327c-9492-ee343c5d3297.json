@@ -94,6 +94,7 @@
       "minecraft:warm_ocean": "2025-09-11 21:04:39 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-11 20:33:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 02:25:03 +0000",
+      "minecraft:meadow": "2025-09-11 22:39:17 +0000",
       "minecraft:savanna": "2025-09-06 02:51:54 +0000",
       "minecraft:plains": "2025-09-06 01:51:17 +0000"
     },
@@ -3938,6 +3939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-11 22:25:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
       "has_item": "2025-09-11 21:06:51 +0000"
@@ -4274,6 +4281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-11 22:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-09-11 20:17:05 +0000"
@@ -4316,6 +4329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-09-11 22:41:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-09-11 21:06:35 +0000"
@@ -4337,6 +4356,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-09-11 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-11 22:41:48 +0000"
     },
     "done": true
   },
