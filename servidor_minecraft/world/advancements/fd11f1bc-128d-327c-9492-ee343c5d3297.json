@@ -91,6 +91,7 @@
       "minecraft:ocean": "2025-09-06 02:39:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-11 20:09:18 +0000",
       "minecraft:snowy_beach": "2025-09-07 00:28:45 +0000",
+      "minecraft:warm_ocean": "2025-09-11 21:04:39 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-11 20:33:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 02:25:03 +0000",
       "minecraft:savanna": "2025-09-06 02:51:54 +0000",
@@ -394,6 +395,7 @@
       "minecraft:vindicator": "2025-09-06 22:12:19 +0000",
       "minecraft:spider": "2025-09-06 02:15:03 +0000",
       "minecraft:evoker": "2025-09-08 22:04:32 +0000",
+      "minecraft:phantom": "2025-09-11 20:56:23 +0000",
       "minecraft:witch": "2025-09-06 22:31:33 +0000",
       "minecraft:husk": "2025-09-06 02:36:33 +0000",
       "minecraft:cave_spider": "2025-09-06 02:15:06 +0000",
@@ -3708,6 +3710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-11 20:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-09-11 20:43:02 +0000"
@@ -3726,15 +3734,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-11 20:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-09-11 20:31:36 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-11 20:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-09-11 20:14:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-09-11 21:11:27 +0000"
     },
     "done": true
   },
@@ -3762,9 +3794,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-09-11 20:40:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:35 +0000"
     },
     "done": true
   },
@@ -3777,6 +3821,12 @@
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-09-11 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:35 +0000"
     },
     "done": true
   },
@@ -3816,6 +3866,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-11 21:11:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-09-11 20:01:16 +0000"
@@ -3840,9 +3896,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-09-11 20:11:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:35 +0000"
     },
     "done": true
   },
@@ -3882,6 +3950,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-11 21:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-11 20:14:55 +0000"
@@ -3891,6 +3965,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-11 20:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-09-11 21:06:51 +0000"
     },
     "done": true
   },
@@ -3936,6 +4016,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-11 21:06:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-09-11 21:11:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2025-09-11 19:48:28 +0000"
@@ -3966,9 +4064,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-11 20:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-11 20:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-09-11 21:11:27 +0000"
     },
     "done": true
   },
@@ -3981,6 +4091,12 @@
   "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
       "spiky_bug": "2025-09-11 19:55:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-09-11 21:06:35 +0000"
     },
     "done": true
   },
@@ -4044,6 +4160,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-11 20:17:05 +0000"
@@ -4062,9 +4184,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-09-11 20:01:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-09-11 21:06:35 +0000"
     },
     "done": true
   },
@@ -4095,6 +4229,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-11 20:14:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-09-11 21:11:27 +0000"
     },
     "done": true
   },
