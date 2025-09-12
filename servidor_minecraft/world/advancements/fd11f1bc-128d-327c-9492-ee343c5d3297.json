@@ -4644,21 +4644,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
-      "has_sandstone": "2025-09-12 01:00:22 +0000"
+      "has_dragonscales_gray": "2025-09-12 00:20:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_button": {
+  "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
-      "has_planks": "2025-09-12 00:59:52 +0000"
+      "has_item": "2025-09-12 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-12 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-09-12 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-09-12 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-09-12 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-09-12 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-09-12 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-09-12 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-12 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-09-12 00:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-09-12 00:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-09-12 00:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-12 00:48:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-09-12 00:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-09-12 00:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-12 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-09-12 00:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-09-12 00:54:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2025-09-12 00:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-09-12 00:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-09-12 00:59:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-09-12 00:59:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-09-12 00:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-09-12 00:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-09-12 00:59:52 +0000"
     },
     "done": true
   },
@@ -4674,54 +4812,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2025-09-12 00:27:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-09-12 01:00:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-09-12 00:48:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-09-12 01:00:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-09-12 01:00:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-09-12 00:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-09-12 01:00:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-12 00:59:52 +0000"
@@ -4734,39 +4824,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
+  "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
-      "has_item": "2025-09-12 00:22:24 +0000"
+      "has_planks": "2025-09-12 00:59:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+  "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
-      "has_sandstone": "2025-09-12 01:00:22 +0000"
+      "has_planks": "2025-09-12 00:59:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+  "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
-      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
+      "has_planks": "2025-09-12 00:59:52 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
+  "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
-      "has_item": "2025-09-12 00:22:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/end": {
-    "criteria": {
-      "has_ender_eye": "2025-09-12 00:48:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-09-12 00:59:21 +0000"
+      "has_planks": "2025-09-12 00:59:52 +0000"
     },
     "done": true
   },
@@ -4782,57 +4860,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-09-12 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2025-09-12 00:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-12 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-09-12 00:59:21 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
-    "criteria": {
-      "ex": "2025-09-12 01:06:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
-    "criteria": {
-      "has_purple_wool": "2025-09-12 00:59:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_cut_sandstone": "2025-09-12 01:00:10 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_item": "2025-09-12 00:22:24 +0000"
+      "has_sandstone": "2025-09-12 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-12 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-12 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-12 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-12 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-12 01:00:22 +0000"
     },
     "done": true
   },
@@ -4848,24 +4914,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_gray_helmet": {
-    "criteria": {
-      "has_item": "2025-09-12 00:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-12 00:20:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-12 01:00:22 +0000"
@@ -4878,87 +4926,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-09-12 00:22:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-09-12 00:54:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-09-12 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-09-12 00:51:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-12 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-09-12 00:29:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-09-12 00:59:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-09-12 01:00:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_gray_leggings": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_item": "2025-09-12 00:20:50 +0000"
+      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
-      "has_item": "2025-09-12 00:22:24 +0000"
+      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_gray_boots": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_item": "2025-09-12 00:20:50 +0000"
+      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
-      "has_ender_eye": "2025-09-12 00:48:12 +0000"
+      "has_smooth_sandstone": "2025-09-12 01:03:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
-      "has_shulker_shell": "2025-09-12 00:32:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-09-12 00:51:38 +0000"
+      "ex": "2025-09-12 01:06:42 +0000"
     },
     "done": true
   },

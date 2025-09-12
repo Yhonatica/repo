@@ -4528,7 +4528,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-09-08 22:23:28 +0000",
       "minecraft:soul_sand_valley": "2025-09-08 22:21:24 +0000",
-      "minecraft:nether_wastes": "2025-09-08 23:13:10 +0000"
+      "minecraft:nether_wastes": "2025-09-08 23:13:10 +0000",
+      "minecraft:basalt_deltas": "2025-09-12 02:23:32 +0000"
     },
     "done": false
   },
@@ -4947,6 +4948,36 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-09-12 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-09-12 00:26:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2025-09-12 00:28:16 +0000"
@@ -4956,6 +4987,24 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-09-12 00:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-12 00:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-09-12 00:29:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-09-12 01:06:44 +0000"
     },
     "done": true
   },
@@ -4971,51 +5020,117 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "ex": "2025-09-12 01:06:44 +0000"
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_overgrown_colossus": {
+  "nethers_exorcism_reborn:encounter_strampler": {
     "criteria": {
-      "colossus": "2025-09-12 00:26:07 +0000"
+      "encounter_strampler_0": "2025-09-12 02:38:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+  "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
-      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
+  "paraglider:pray_to_the_goddess": {
     "criteria": {
-      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+      "bargain": "2025-09-12 02:16:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_salmon": "2025-09-12 00:29:03 +0000"
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
-      "pumpkin_sir_0": "2025-09-12 00:21:00 +0000"
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_salmon": "2025-09-12 00:29:03 +0000"
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-12 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 02:20:14 +0000"
     },
     "done": true
   },
