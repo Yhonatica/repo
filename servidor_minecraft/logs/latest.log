@@ -626,3 +626,88 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [12Sep2025 00:26:55.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was doomed to fall by Lightning Dragon
 [12Sep2025 00:26:55.937] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_12.09.2025-00.26.55.dat
+[12Sep2025 00:27:33.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:52973] logged in with entity id 196879 at (783.9188236953011, -8.0, 4029.8508591553987)
+[12Sep2025 00:27:33.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 00:27:33.247] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 00:27:42.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [It's an Emu!!!]
+[12Sep2025 00:27:58.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 1367.500000, 82.000000, 1291.500000]
+[12Sep2025 00:27:59.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 1367.500000, 82.000000, 1291.500000]
+[12Sep2025 00:28:02.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[12Sep2025 00:28:13.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[12Sep2025 00:28:15.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[12Sep2025 00:29:08.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 1367.500000, 82.000000, 1291.500000]
+[12Sep2025 00:32:33.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[12Sep2025 00:32:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[12Sep2025 00:33:25.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[12Sep2025 00:38:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 00:39:20.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 00:41:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[12Sep2025 00:42:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Creative Mode]
+[12Sep2025 00:42:58.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[12Sep2025 00:43:00.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin moved too quickly! -1.9831175096028346,3.2790180685213244,9.291334066105719
+[12Sep2025 00:43:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> a
+[12Sep2025 00:43:15.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> asd
+[12Sep2025 00:43:17.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[12Sep2025 00:43:17.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 00:43:26.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53067] logged in with entity id 208614 at (832.3845033617456, 119.0209315610942, 4042.8970855545736)
+[12Sep2025 00:43:26.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 00:43:26.406] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 00:43:56.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
+[12Sep2025 00:43:56.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 00:43:56.425] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Sep2025 00:44:12.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.43499211432435914,0.509555684660711,10.138776763858004
+[12Sep2025 00:44:13.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53078] logged in with entity id 209298 at (832.3845033617456, 119.0209315610942, 4042.8970855545736)
+[12Sep2025 00:44:13.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 00:44:13.939] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 00:44:15.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[12Sep2025 00:44:26.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[12Sep2025 00:44:43.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> ghjhgj
+[12Sep2025 00:44:43.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
+[12Sep2025 00:44:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 00:44:56.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53090] logged in with entity id 209887 at (832.3845033617456, 119.0209315610942, 4042.8970855545736)
+[12Sep2025 00:44:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 00:44:56.582] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 00:45:24.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> asd
+[12Sep2025 00:45:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> asd
+[12Sep2025 00:45:26.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
+[12Sep2025 00:45:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 00:45:51.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53103] logged in with entity id 210808 at (829.8347259896442, 119.0209315610942, 4036.271305153823)
+[12Sep2025 00:45:51.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 00:45:51.904] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 00:46:21.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
+[12Sep2025 00:46:21.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 00:46:32.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53116] logged in with entity id 211198 at (829.8347259896442, 119.0209315610942, 4036.271305153823)
+[12Sep2025 00:46:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 00:46:32.303] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 00:47:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> as
+[12Sep2025 00:47:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> sua
+[12Sep2025 00:47:09.554] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
+[12Sep2025 00:47:09.554] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
+[12Sep2025 00:47:09.555] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
+[12Sep2025 00:47:09.555] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
+[12Sep2025 00:47:09.603] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
+[12Sep2025 00:47:12.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[12Sep2025 00:47:18.843] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2674, y=15, z=2312}
+[12Sep2025 00:47:19.390] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=626, y=-22, z=-74}
+[12Sep2025 00:47:21.359] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=939, y=-17, z=-366}
+[12Sep2025 00:47:36.260] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
+[12Sep2025 00:47:36.260] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
+[12Sep2025 00:47:36.352] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
+[12Sep2025 00:47:36.352] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
+[12Sep2025 00:47:36.352] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[12Sep2025 00:48:06.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Sep2025 00:48:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[12Sep2025 00:48:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[12Sep2025 00:48:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[12Sep2025 00:48:46.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 00:48:49.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 00:49:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[12Sep2025 00:49:23.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[12Sep2025 00:49:34.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[12Sep2025 00:49:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 00:49:43.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 00:51:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Sneak 100]
+[12Sep2025 00:52:48.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Creative Mode]
+[12Sep2025 00:52:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[12Sep2025 00:55:10.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Sep2025 00:56:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> as

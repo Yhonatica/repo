@@ -4946,6 +4946,18 @@
     },
     "done": false
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-09-12 00:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-12 00:29:03 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_overgrown_colossus": {
     "criteria": {
       "colossus": "2025-09-12 00:26:07 +0000"
@@ -4964,9 +4976,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-12 00:29:03 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
       "pumpkin_sir_0": "2025-09-12 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-09-12 00:29:03 +0000"
     },
     "done": true
   },
