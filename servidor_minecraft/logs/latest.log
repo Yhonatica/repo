@@ -802,3 +802,37 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [12Sep2025 01:16:53.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 2671.500000, 92.000000, 2584.500000]
 [12Sep2025 01:17:14.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
 [12Sep2025 01:17:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 01:18:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[12Sep2025 01:21:00.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53575] logged in with entity id 227619 at (846.5672235806245, 124.14880300150635, 4061.533674012688)
+[12Sep2025 01:21:00.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 01:21:00.993] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 01:22:05.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[12Sep2025 01:22:05.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 01:22:05.375] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Sep2025 01:22:21.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53592] logged in with entity id 228023 at (846.5672235806245, 124.14880300150635, 4061.533674012688)
+[12Sep2025 01:22:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 01:22:21.586] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 01:23:32.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[12Sep2025 01:23:32.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 01:24:27.468] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@359e7b4c[id=<null>,name=KodaMakuin,properties={},legacy=false] (/100.74.147.57:53613): Took too long to log in
+[12Sep2025 01:24:27.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@359e7b4c[id=<null>,name=KodaMakuin,properties={},legacy=false] (/100.74.147.57:53613) lost connection: Took too long to log in
+[12Sep2025 01:24:27.520] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Sep2025 01:25:58.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53623] logged in with entity id 229186 at (846.5672235806245, 124.14880300150635, 4061.533674012688)
+[12Sep2025 01:25:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 01:25:58.424] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 01:26:58.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Timed out
+[12Sep2025 01:26:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 01:27:17.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:53645] logged in with entity id 229496 at (846.5672235806245, 124.14880300150635, 4061.533674012688)
+[12Sep2025 01:27:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[12Sep2025 01:27:17.435] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
+[12Sep2025 01:27:47.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> add
+[12Sep2025 01:28:00.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[12Sep2025 01:28:00.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[12Sep2025 01:31:05.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 01:31:16.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 01:31:28.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 01:32:31.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[12Sep2025 01:35:42.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 01:35:45.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 01:36:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 01:36:42.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
