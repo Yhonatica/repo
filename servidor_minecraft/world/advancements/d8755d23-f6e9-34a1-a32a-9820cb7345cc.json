@@ -5044,6 +5044,12 @@
     },
     "done": true
   },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2025-09-12 02:55:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-09-12 02:44:24 +0000"

@@ -864,3 +864,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [12Sep2025 02:43:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
 [12Sep2025 02:43:53.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
 [12Sep2025 02:43:53.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[12Sep2025 03:06:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[12Sep2025 03:06:28.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 03:06:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[12Sep2025 03:06:36.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[12Sep2025 03:07:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 03:08:17.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[12Sep2025 03:09:49.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[12Sep2025 03:12:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[12Sep2025 03:13:39.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
