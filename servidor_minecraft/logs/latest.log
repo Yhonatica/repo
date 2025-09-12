@@ -862,3 +862,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [12Sep2025 02:40:38.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [12Sep2025 02:42:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
 [12Sep2025 02:43:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[12Sep2025 02:43:53.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[12Sep2025 02:43:53.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
