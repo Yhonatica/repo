@@ -4576,5 +4576,17 @@
     },
     "done": true
   },
+  "cnc:wendigoadvancement": {
+    "criteria": {
+      "wendigoadvancement_0": "2025-09-12 00:21:22 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigo_killed": {
+    "criteria": {
+      "wendigo_killed_0": "2025-09-12 00:21:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

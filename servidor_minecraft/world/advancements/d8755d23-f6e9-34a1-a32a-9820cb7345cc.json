@@ -2500,7 +2500,10 @@
       "trickor_treat_0": "2025-09-06 06:07:04 +0000",
       "trickor_treat_2": "2025-09-06 06:07:17 +0000",
       "trickor_treat_3": "2025-09-06 06:07:35 +0000",
-      "trickor_treat_6": "2025-09-06 06:07:17 +0000"
+      "trickor_treat_4": "2025-09-12 00:21:15 +0000",
+      "trickor_treat_5": "2025-09-12 00:21:15 +0000",
+      "trickor_treat_6": "2025-09-06 06:07:17 +0000",
+      "trickor_treat_7": "2025-09-12 00:21:15 +0000"
     },
     "done": false
   },
@@ -4926,7 +4929,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_8": "2025-09-09 01:28:43 +0000"
+      "squireofthe_dark_lord_8": "2025-09-09 01:28:43 +0000",
+      "squireofthe_dark_lord_6": "2025-09-12 00:21:02 +0000"
     },
     "done": false
   },
@@ -4941,6 +4945,36 @@
       "bury_them_all_17": "2025-09-09 01:29:00 +0000"
     },
     "done": false
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-09-12 00:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-09-12 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-12 00:17:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
