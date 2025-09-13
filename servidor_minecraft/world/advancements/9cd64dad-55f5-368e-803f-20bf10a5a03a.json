@@ -247,6 +247,7 @@
       "potato": "2025-09-06 05:00:31 +0000",
       "bread": "2025-09-06 02:34:18 +0000",
       "golden_apple": "2025-09-06 03:51:22 +0000",
+      "rotten_flesh": "2025-09-13 03:41:48 +0000",
       "melon_slice": "2025-09-06 01:55:58 +0000",
       "cooked_salmon": "2025-09-13 00:00:35 +0000"
     },
@@ -1109,6 +1110,7 @@
       "minecraft:pillager": "2025-09-06 02:26:08 +0000",
       "minecraft:blaze": "2025-09-06 07:19:33 +0000",
       "minecraft:skeleton": "2025-09-06 04:39:55 +0000",
+      "minecraft:zoglin": "2025-09-13 03:42:20 +0000",
       "minecraft:ghast": "2025-09-11 19:42:59 +0000",
       "minecraft:vindicator": "2025-09-06 02:32:16 +0000",
       "minecraft:magma_cube": "2025-09-06 07:18:48 +0000",
@@ -1116,6 +1118,7 @@
       "minecraft:creeper": "2025-09-06 02:56:31 +0000",
       "minecraft:evoker": "2025-09-06 04:24:47 +0000",
       "minecraft:phantom": "2025-09-13 02:10:31 +0000",
+      "minecraft:zombified_piglin": "2025-09-13 03:29:24 +0000",
       "minecraft:witch": "2025-09-06 03:28:43 +0000",
       "minecraft:husk": "2025-09-06 02:16:16 +0000",
       "minecraft:enderman": "2025-09-06 04:14:08 +0000",
@@ -4614,6 +4617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-09-13 03:26:38 +0000"
@@ -4692,6 +4701,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_2": "2025-09-13 03:50:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-09-13 02:26:10 +0000"
@@ -4716,6 +4737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-09-13 02:11:27 +0000"
@@ -4725,6 +4752,12 @@
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-09-13 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
     },
     "done": true
   },
@@ -4779,6 +4812,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-09-13 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-13 03:30:08 +0000"
     },
     "done": true
   },
@@ -4872,6 +4911,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-09-13 03:39:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-09-13 02:11:27 +0000"
@@ -4881,6 +4926,18 @@
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-09-13 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-09-13 03:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-13 03:50:19 +0000"
     },
     "done": true
   },
@@ -4896,9 +4953,33 @@
     },
     "done": true
   },
+  "skyarena:difficulty_level_5": {
+    "criteria": {
+      "difficulty_level_5": "2025-09-13 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-09-13 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2025-09-13 03:50:20 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
       "has_item": "2025-09-13 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
     },
     "done": true
   },

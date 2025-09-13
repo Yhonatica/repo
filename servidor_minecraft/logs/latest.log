@@ -749,3 +749,95 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [13Sep2025 03:30:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Ol' Betsy]
 [13Sep2025 03:32:40.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Would you Like to Know More?]
 [13Sep2025 03:32:46.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Book of Monsters]
+[13Sep2025 03:35:21.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Not My First Rodeo]
+[13Sep2025 03:39:49.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has reached the goal [Exorcism]
+[13Sep2025 03:47:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 03:48:01.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Timed out
+[13Sep2025 03:48:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[13Sep2025 03:48:08.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:50963] logged in with entity id 124790 at (1089.4223874412385, 70.3067999639556, 4060.0110100407032)
+[13Sep2025 03:48:08.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[13Sep2025 03:48:08.056] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[13Sep2025 03:49:03.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! 9.320948603620309,3.3317009308129286,-1.820377077242938
+[13Sep2025 03:49:10.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! -0.5439136482375488,0.0,-10.714520757737773
+[13Sep2025 03:49:13.006] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1242, y=-15, z=3609}
+[13Sep2025 03:50:06.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [War Pigs]
+[13Sep2025 03:51:44.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[13Sep2025 03:51:47.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[13Sep2025 03:52:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[13Sep2025 03:52:30.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[13Sep2025 03:52:46.899] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1690, y=28, z=3885}
+[13Sep2025 03:53:12.383] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1707, y=-42, z=3746}
+[13Sep2025 03:53:12.384] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1707, y=-42, z=3747}
+[13Sep2025 03:53:13.962] [Worker-Main-208/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1775, y=0, z=3745}
+[13Sep2025 03:53:13.965] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1778, y=0, z=3743}
+[13Sep2025 03:53:13.965] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1783, y=13, z=3741}
+[13Sep2025 03:53:22.594] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1715, y=-16, z=3695}
+[13Sep2025 03:53:22.594] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1716, y=-16, z=3695}
+[13Sep2025 03:53:22.594] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1716, y=-15, z=3695}
+[13Sep2025 03:53:22.594] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1717, y=-16, z=3695}
+[13Sep2025 03:53:24.334] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1739, y=-44, z=3691}
+[13Sep2025 03:53:24.335] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1737, y=-44, z=3691}
+[13Sep2025 03:53:25.450] [Worker-Main-80/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1984, y=-55, z=3684}
+[13Sep2025 03:53:25.450] [Worker-Main-80/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1984, y=-55, z=3684}
+[13Sep2025 03:53:25.450] [Worker-Main-80/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1984, y=-55, z=3684}
+[13Sep2025 03:53:56.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[13Sep2025 03:54:03.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[13Sep2025 03:54:29.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 03:54:43.251] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2060, y=-13, z=3431}
+[13Sep2025 03:54:44.885] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2286, y=-43, z=3807}
+[13Sep2025 03:54:47.621] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2293, y=-13, z=3824}
+[13Sep2025 03:55:07.850] [Worker-Main-207/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2599, y=-47, z=3616}
+[13Sep2025 03:55:07.850] [Worker-Main-207/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2599, y=-47, z=3616}
+[13Sep2025 03:55:07.850] [Worker-Main-207/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2599, y=-47, z=3616}
+[13Sep2025 03:56:08.888] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2664, y=32, z=3840}
+[13Sep2025 03:56:08.888] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2666, y=32, z=3840}
+[13Sep2025 03:56:26.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[13Sep2025 03:57:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 03:57:48.899] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2211, y=-8, z=4151}
+[13Sep2025 03:58:02.043] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2520, y=-4, z=4240}
+[13Sep2025 03:58:02.043] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2520, y=-4, z=4240}
+[13Sep2025 03:58:02.043] [Worker-Main-89/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2520, y=-4, z=4240}
+[13Sep2025 03:58:26.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[13Sep2025 03:58:38.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 03:58:50.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[13Sep2025 03:58:53.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 03:59:28.793] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-224, y=6, z=1080}
+[13Sep2025 03:59:30.289] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-245, y=-50, z=1131}
+[13Sep2025 03:59:30.289] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-244, y=-50, z=1131}
+[13Sep2025 03:59:35.509] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-295, y=-27, z=1111}
+[13Sep2025 03:59:39.477] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-298, y=20, z=854}
+[13Sep2025 03:59:39.797] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-345, y=-30, z=1072}
+[13Sep2025 03:59:39.797] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-345, y=-30, z=1073}
+[13Sep2025 03:59:46.038] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-457, y=-48, z=1033}
+[13Sep2025 03:59:48.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! -4.350532300495672,0.0,9.151278288732556
+[13Sep2025 03:59:52.615] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-305, y=-6, z=1306}
+[13Sep2025 03:59:52.616] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-305, y=-6, z=1307}
+[13Sep2025 03:59:52.616] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-305, y=-6, z=1308}
+[13Sep2025 04:00:13.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! -10.85221022242564,0.0,-0.8011253949628099
+[13Sep2025 04:00:27.637] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-703, y=-19, z=1034}
+[13Sep2025 04:00:27.638] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-703, y=-19, z=1033}
+[13Sep2025 04:00:56.045] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-780, y=8, z=1062}
+[13Sep2025 04:00:59.052] [Worker-Main-91/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-570, y=-12, z=816}
+[13Sep2025 04:01:02.099] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-509, y=-11, z=737}
+[13Sep2025 04:01:02.352] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-848, y=-45, z=981}
+[13Sep2025 04:01:09.725] [Worker-Main-91/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-559, y=9, z=647}
+[13Sep2025 04:01:09.725] [Worker-Main-91/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-559, y=9, z=647}
+[13Sep2025 04:01:09.726] [Worker-Main-91/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-559, y=9, z=647}
+[13Sep2025 04:01:11.020] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-904, y=6, z=832}
+[13Sep2025 04:01:11.878] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-923, y=22, z=710}
+[13Sep2025 04:01:14.355] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-831, y=-52, z=572}
+[13Sep2025 04:01:14.355] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-831, y=-52, z=572}
+[13Sep2025 04:01:14.356] [Worker-Main-62/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-831, y=-52, z=572}
+[13Sep2025 04:01:15.296] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-863, y=-50, z=543}
+[13Sep2025 04:01:15.296] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-864, y=-50, z=543}
+[13Sep2025 04:01:18.889] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-879, y=3, z=478}
+[13Sep2025 04:01:20.243] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-879, y=-15, z=445}
+[13Sep2025 04:01:20.244] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-879, y=-15, z=445}
+[13Sep2025 04:01:20.244] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-879, y=-15, z=445}
+[13Sep2025 04:01:25.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! -1.5837444286760274,3.3594124209233485,-9.400122968534106
+[13Sep2025 04:01:32.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[13Sep2025 04:01:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 04:01:36.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[13Sep2025 04:01:36.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[13Sep2025 04:02:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Not for the Faint of Heart]
+[13Sep2025 04:03:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has reached the goal [Senior Summoner]

@@ -5230,6 +5230,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-09-13 03:09:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-09-13 03:16:38 +0000"
@@ -5254,21 +5260,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-09-13 03:16:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-09-13 03:25:41 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/skelewag": {
+  "iceandfire:iceandfire/lectern": {
     "criteria": {
-      "killed_by": "2025-09-13 03:09:50 +0000"
+      "bestiary": "2025-09-13 03:32:40 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "has_dragonscales_blue": "2025-09-13 03:16:38 +0000"
+      "bestiary": "2025-09-13 03:32:46 +0000"
     },
     "done": true
   },
