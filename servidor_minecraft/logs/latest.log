@@ -1324,3 +1324,17 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [13Sep2025 06:14:33.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Shinier Buddy]
 [13Sep2025 06:14:34.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Render of Souls]
 [13Sep2025 06:27:27.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[13Sep2025 06:28:04.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has reached the goal [Arachnophobe's Nightmare]
+[13Sep2025 06:31:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [Big Boy]
+[13Sep2025 06:33:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin was doomed to fall
+[13Sep2025 06:33:41.608] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KodaMakuin with unique ID travelersbackpack.standard_13.09.2025-06.33.41.dat
+[13Sep2025 06:33:52.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[13Sep2025 06:33:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[13Sep2025 06:34:12.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Creative Mode]
+[13Sep2025 06:34:54.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[13Sep2025 06:34:58.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[13Sep2025 06:35:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has reached the goal [Horror Under the Mantle]
+[13Sep2025 06:35:25.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [They Have a Cave Troll!]
+[13Sep2025 06:38:29.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[13Sep2025 06:43:00.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[13Sep2025 06:43:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
