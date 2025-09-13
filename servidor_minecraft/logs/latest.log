@@ -475,3 +475,28 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [13Sep2025 02:41:03.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
 [13Sep2025 02:41:03.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
 [13Sep2025 02:41:23.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has completed the challenge [Premium!]
+[13Sep2025 02:42:52.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 02:43:05.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 02:43:12.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 02:43:41.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 02:44:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Statue's Bargain]
+[13Sep2025 02:52:10.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:50749] logged in with entity id 88919 at (-1378.4309259551278, -38.0, 3446.422197041333)
+[13Sep2025 02:52:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[13Sep2025 02:52:10.609] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[13Sep2025 02:52:21.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 02:53:09.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 02:54:11.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 02:54:39.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Naughty Child]
+[13Sep2025 02:55:09.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Wrong Santa]
+[13Sep2025 02:56:07.590] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1723, y=18, z=2639}
+[13Sep2025 02:56:27.697] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1587, y=-47, z=2709}
+[13Sep2025 02:57:00.313] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1400, y=19, z=2686}
+[13Sep2025 02:57:00.430] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1406, y=-11, z=2666}
+[13Sep2025 02:57:00.430] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1407, y=-11, z=2666}
+[13Sep2025 02:57:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 02:57:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 02:57:42.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 03:00:03.528] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/94181, l='ServerLevel[world]', x=-1168.70, y=77.00, z=2604.70] died, message: 'Unemployed was slain by Husk'
+[13Sep2025 03:00:08.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/94180, l='ServerLevel[world]', x=-1161.30, y=78.00, z=2603.49] died, message: 'Leatherworker was slain by Husk'
+[13Sep2025 03:01:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[13Sep2025 03:01:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]

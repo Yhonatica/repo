@@ -4620,6 +4620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-09-13 02:40:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
       "has_item": "2025-09-13 02:11:25 +0000"
@@ -4689,6 +4695,12 @@
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2025-09-13 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
     },
     "done": true
   },
@@ -4770,6 +4782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-09-13 02:11:24 +0000"
@@ -4779,6 +4797,12 @@
   "iceandfire:recipes/food/frost_stew": {
     "criteria": {
       "has_item": "2025-09-13 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
     },
     "done": true
   },
@@ -4899,6 +4923,12 @@
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-09-13 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-09-13 02:46:46 +0000"
     },
     "done": true
   },
