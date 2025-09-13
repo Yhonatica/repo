@@ -4589,6 +4589,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
       "has_item": "2025-09-13 00:44:47 +0000"
