@@ -857,3 +857,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 20:36:46.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> tas en disc
 [13Sep2025 20:36:47.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ?
 [13Sep2025 20:36:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> voy
+[13Sep2025 20:39:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[13Sep2025 20:46:22.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! -7.654885185695321,-1.1767592750642422,6.495136198672753
