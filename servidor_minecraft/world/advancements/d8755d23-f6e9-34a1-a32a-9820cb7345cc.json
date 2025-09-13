@@ -5284,6 +5284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-13 06:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2025-09-13 05:56:28 +0000"
@@ -5350,6 +5356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-09-13 06:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-09-13 05:23:49 +0000"
@@ -5359,6 +5371,18 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-09-13 05:23:49 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_20": {
+    "criteria": {
+      "difficulty_level_20": "2025-09-13 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/warped_mosco_kill": {
+    "criteria": {
+      "killed": "2025-09-13 06:07:36 +0000"
     },
     "done": true
   },
