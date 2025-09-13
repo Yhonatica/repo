@@ -4614,6 +4614,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-09-13 03:26:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-09-13 02:26:10 +0000"
@@ -4653,6 +4659,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
       "has_item": "2025-09-13 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-09-13 03:26:12 +0000"
     },
     "done": true
   },
@@ -4776,6 +4788,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-09-13 03:27:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-09-13 02:26:09 +0000"
@@ -4785,6 +4803,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-09-13 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-09-13 03:26:01 +0000"
     },
     "done": true
   },
