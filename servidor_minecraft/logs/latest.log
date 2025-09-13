@@ -863,3 +863,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 20:47:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [13Sep2025 20:48:33.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
 [13Sep2025 20:48:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 21:04:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[13Sep2025 21:12:38.330] [Worker-Main-106/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[13Sep2025 21:12:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 21:14:15.797] [Worker-Main-150/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=939, y=-17, z=-366}
+[13Sep2025 21:14:49.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 21:15:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set the time to 1000]
+[13Sep2025 21:16:57.802] [Worker-Main-152/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Sep2025 21:17:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 21:17:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 21:18:18.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Konnorcito: Location (817.4732567071915, 111.6875, 4011.8050780296326) too far away from hit block BlockPos{x=817, y=110, z=4011}.
+[13Sep2025 21:18:18.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Konnorcito: Location (817.4732567071915, 111.6875, 4011.8050780296326) too far away from hit block BlockPos{x=817, y=110, z=4011}.
+[13Sep2025 21:19:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 21:21:00.766] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Sep2025 21:21:00.783] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Sep2025 21:21:26.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 21:24:02.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 21:24:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 21:26:38.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set the time to 1000]
+[13Sep2025 21:27:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 21:27:57.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 21:29:24.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[13Sep2025 21:29:24.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[13Sep2025 21:31:38.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ was kicked for floating too long!
+[13Sep2025 21:31:38.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Flying is not enabled on this server
+[13Sep2025 21:31:38.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[13Sep2025 21:31:38.940] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Sep2025 21:33:48.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:49982] logged in with entity id 63782 at (-775.5166656276867, 65.44186733226317, 11644.053940963644)
+[13Sep2025 21:33:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[13Sep2025 21:33:48.691] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[13Sep2025 21:33:59.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[13Sep2025 21:34:11.923] [Worker-Main-148/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Sep2025 21:34:11.923] [Worker-Main-148/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Sep2025 21:34:22.386] [Worker-Main-150/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Sep2025 21:34:22.386] [Worker-Main-150/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Sep2025 21:35:21.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Eye of The Storm]
+[13Sep2025 21:35:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Milk Bucket] to Kilkov_]
