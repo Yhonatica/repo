@@ -5566,6 +5566,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-09-13 22:37:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-09-13 22:28:37 +0000"
@@ -5611,6 +5617,12 @@
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2025-09-13 21:47:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-09-13 22:35:56 +0000"
     },
     "done": true
   },

@@ -992,3 +992,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 22:37:29.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [An Ear-Shattering Roar]
 [13Sep2025 22:38:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Return Scroll] to Kilkov_]
 [13Sep2025 22:38:33.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 82.52891785370946,34.5,104.19999998807907
+[13Sep2025 22:40:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [A Seedy Place]
+[13Sep2025 22:42:34.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[13Sep2025 22:42:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Return Scroll] to Kilkov_]
+[13Sep2025 22:42:57.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 32.44623673458,8.5,65.8158040467265
+[13Sep2025 22:48:32.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Return Scroll] to Kilkov_]
+[13Sep2025 22:48:34.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 70.49031588692458,30.106220312084773,108.93637150613677
