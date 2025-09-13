@@ -5284,21 +5284,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "has_smithing_trim_template": "2025-09-13 06:13:00 +0000"
+      "useitem": "2025-09-13 04:27:20 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "pufferfish": "2025-09-13 05:56:28 +0000"
+      "bred": "2025-09-13 04:31:25 +0000"
     },
     "done": true
   },
-  "nethers_exorcism_reborn:shinierarmor": {
+  "alexsmobs:alexsmobs/banana": {
     "criteria": {
-      "shinierarmor_0": "2025-09-13 06:14:33 +0000"
+      "banana": "2025-09-13 05:07:36 +0000"
     },
     "done": true
   },
@@ -5308,33 +5308,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-09-13 06:31:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-09-13 05:23:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-09-13 04:27:20 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-09-13 05:34:01 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:soulrender": {
-    "criteria": {
-      "requirement": "2025-09-13 06:14:34 +0000"
     },
     "done": true
   },
@@ -5350,33 +5326,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-09-13 04:31:25 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-09-13 05:23:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-09-13 05:07:36 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tame_capuchin": {
-    "criteria": {
-      "tame": "2025-09-13 05:42:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-09-13 06:13:00 +0000"
     },
     "done": true
   },
@@ -5392,6 +5344,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-13 05:23:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-13 05:34:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_capuchin": {
+    "criteria": {
+      "tame": "2025-09-13 05:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-09-13 05:56:28 +0000"
+    },
+    "done": true
+  },
   "skyarena:difficulty_level_20": {
     "criteria": {
       "difficulty_level_20": "2025-09-13 06:06:07 +0000"
@@ -5404,9 +5380,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_redstone": "2025-09-13 05:23:49 +0000"
+      "has_smithing_trim_template": "2025-09-13 06:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-09-13 06:13:00 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:shinierarmor": {
+    "criteria": {
+      "shinierarmor_0": "2025-09-13 06:14:33 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-09-13 06:14:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-09-13 06:31:04 +0000"
     },
     "done": true
   },
