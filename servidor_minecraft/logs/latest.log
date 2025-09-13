@@ -841,3 +841,11 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [13Sep2025 04:01:36.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
 [13Sep2025 04:02:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Not for the Faint of Heart]
 [13Sep2025 04:03:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has reached the goal [Senior Summoner]
+[13Sep2025 04:05:53.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:51058] logged in with entity id 140317 at (158.70180042672484, 173.0, 3753.836938264537)
+[13Sep2025 04:05:53.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[13Sep2025 04:05:53.749] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[13Sep2025 04:06:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Who is Cutting Onions?]
+[13Sep2025 04:08:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[13Sep2025 04:13:53.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 04:14:23.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 04:14:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
