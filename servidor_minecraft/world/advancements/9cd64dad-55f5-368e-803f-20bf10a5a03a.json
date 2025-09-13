@@ -4599,291 +4599,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "crying_obsidian": "2025-09-13 04:06:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_slab": {
-    "criteria": {
-      "has_item": "2025-09-13 02:24:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2025-09-13 02:26:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-09-13 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-09-13 03:26:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-09-13 02:26:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-09-13 02:40:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-09-13 04:06:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_leggings": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
-    "criteria": {
-      "has_item": "2025-09-13 02:24:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-09-13 02:19:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2025-09-13 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
-    "criteria": {
-      "has_item": "2025-09-13 02:32:41 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed_by": "2025-09-13 03:26:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-09-13 04:27:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
-    "criteria": {
-      "has_dragonscales_copper": "2025-09-13 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_face": {
-    "criteria": {
-      "has_item": "2025-09-13 02:24:47 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-09-13 02:09:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-09-13 02:25:59 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_2": "2025-09-13 03:50:18 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-09-13 06:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-09-13 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-09-13 02:26:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonbone": {
-    "criteria": {
-      "has_dragon_bone_block": "2025-09-13 02:32:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_boots": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-09-13 04:13:28 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-09-13 06:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-09-13 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-09-13 04:03:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-09-13 06:40:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-09-13 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-09-13 02:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_leggings": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-09-13 02:25:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-09-13 02:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+      "egg": "2025-09-13 00:30:01 +0000"
     },
     "done": true
   },
@@ -4893,51 +4611,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_raw_silver": "2025-09-13 02:19:50 +0000"
+      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "shot_crossbow": "2025-09-13 03:30:08 +0000"
+      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+      "has_smooth_stone": "2025-09-13 02:06:20 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+  "paraglider:pray_to_the_goddess": {
     "criteria": {
-      "has_goddess_statue": "2025-09-13 02:19:41 +0000"
+      "bargain": "2025-09-13 02:09:36 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:guidetothenextworld": {
+  "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
-      "guidetothenextworld_0": "2025-09-13 03:27:47 +0000"
+      "has_item": "2025-09-13 02:11:24 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
-      "has_sapphire_gem": "2025-09-13 02:26:09 +0000"
+      "has_dragonscales_copper": "2025-09-13 02:11:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
+  "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
-      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed_by": "2025-09-13 03:26:01 +0000"
+      "has_item": "2025-09-13 02:11:24 +0000"
     },
     "done": true
   },
@@ -4947,51 +4659,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/food/frost_stew": {
+  "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
-      "has_item": "2025-09-13 02:27:39 +0000"
+      "has_item": "2025-09-13 02:11:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/netherite_block": {
+  "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+      "has_item": "2025-09-13 02:11:25 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_troll": {
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
-      "killed_fire_dragon": "2025-09-13 06:35:25 +0000"
+      "has_dragonscales_electric": "2025-09-13 02:11:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
+  "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+      "has_item": "2025-09-13 02:11:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
+  "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
-      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-09-13 02:25:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+      "has_item": "2025-09-13 02:11:25 +0000"
     },
     "done": true
   },
@@ -5001,189 +4695,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-09-13 06:38:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2025-09-13 02:26:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-09-13 04:06:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-09-13 02:25:59 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-09-13 02:11:25 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
-    "criteria": {
-      "has_item": "2025-09-13 02:24:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-09-13 04:13:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-09-13 03:39:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-09-13 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-09-13 02:19:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_bridge": "2025-09-13 03:50:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-09-13 03:50:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-09-13 06:38:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_brick": {
-    "criteria": {
-      "forge": "2025-09-13 02:32:41 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-09-13 02:19:41 +0000"
-    },
-    "done": true
-  },
-  "skyarena:difficulty_level_10": {
-    "criteria": {
-      "difficulty_level_10": "2025-09-13 04:02:01 +0000"
-    },
-    "done": true
-  },
-  "skyarena:difficulty_level_5": {
-    "criteria": {
-      "difficulty_level_5": "2025-09-13 03:35:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-09-13 03:36:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-09-13 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:symphonyof_chaos": {
-    "criteria": {
-      "symphonyof_chaos_1": "2025-09-13 03:50:20 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
-    "criteria": {
-      "has_item": "2025-09-13 02:32:41 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bookshelf": {
-    "criteria": {
-      "has_book": "2025-09-13 03:36:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
-    "criteria": {
-      "has_ward_armor_trim_smithing_template": "2025-09-13 04:13:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
       "has_item": "2025-09-13 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-09-13 00:30:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_torch": {
-    "criteria": {
-      "has_item": "2025-09-13 02:26:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-13 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
     },
     "done": true
   },
@@ -5199,27 +4719,105 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 02:11:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-09-13 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-09-13 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-09-13 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-13 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-09-13 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-09-13 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-09-13 02:19:41 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-09-13 02:19:41 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cake": {
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_egg": "2025-09-13 04:46:01 +0000"
+      "has_raw_silver": "2025-09-13 02:19:50 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
-      "has_item": "2025-09-13 02:11:24 +0000"
+      "has_raw_silver": "2025-09-13 02:19:50 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
-      "has_item": "2025-09-13 02:46:46 +0000"
+      "has_raw_silver": "2025-09-13 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-09-13 02:24:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-09-13 02:24:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-09-13 02:24:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-09-13 02:24:47 +0000"
     },
     "done": true
   },
@@ -5229,9 +4827,411 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "has_item": "2025-09-13 02:11:25 +0000"
+      "has_packed_ice": "2025-09-13 02:25:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-09-13 02:26:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-09-13 02:26:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-09-13 02:26:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-09-13 02:26:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-13 02:26:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-13 02:26:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-09-13 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-09-13 02:32:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-09-13 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-09-13 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-09-13 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-09-13 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-09-13 02:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-13 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-09-13 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-09-13 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-09-13 03:26:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-09-13 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-09-13 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-13 03:30:08 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_5": {
+    "criteria": {
+      "difficulty_level_5": "2025-09-13 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-13 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-09-13 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-09-13 03:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-09-13 03:50:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_2": "2025-09-13 03:50:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-13 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2025-09-13 03:50:20 +0000"
+    },
+    "done": false
+  },
+  "skyarena:difficulty_level_10": {
+    "criteria": {
+      "difficulty_level_10": "2025-09-13 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-09-13 04:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-13 04:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-09-13 04:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-13 04:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-13 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-09-13 04:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-09-13 04:13:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-09-13 04:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-13 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-09-13 04:46:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-09-13 06:28:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-09-13 06:35:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-13 06:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-13 06:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-09-13 06:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-13 06:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-13 06:40:19 +0000"
     },
     "done": true
   },
