@@ -833,3 +833,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 19:51:48.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
 [13Sep2025 20:06:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
 [13Sep2025 20:06:54.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 20:25:01.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:50695] logged in with entity id 25787 at (799.438195927915, 121.0, 3887.938315952721)
+[13Sep2025 20:25:01.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[13Sep2025 20:25:01.892] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[13Sep2025 20:25:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[13Sep2025 20:26:21.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[13Sep2025 20:26:40.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> tienes hasta moscas en tu mierda de casa
+[13Sep2025 20:26:43.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> :D
