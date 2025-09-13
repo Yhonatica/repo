@@ -5218,5 +5218,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-09-13 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-09-13 02:29:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
