@@ -421,3 +421,32 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [13Sep2025 02:20:09.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to 848.500000, 113.000000, 4070.500000]
 [13Sep2025 02:20:22.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 585.500000, 71.000000, 3773.500000]
 [13Sep2025 02:20:23.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[13Sep2025 02:21:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[13Sep2025 02:21:05.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Pray to the Goddess]
+[13Sep2025 02:21:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 585.500000, 71.000000, 3773.500000]
+[13Sep2025 02:22:43.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:50318] logged in with entity id 70054 at (825.1841455103779, 110.0, 4000.0797944581955)
+[13Sep2025 02:22:43.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[13Sep2025 02:22:43.624] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[13Sep2025 02:23:15.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> 284 79 3774
+[13Sep2025 02:23:29.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 585.500000, 71.000000, 3773.500000]
+[13Sep2025 02:23:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 284.500000, 79.000000, 3774.500000]
+[13Sep2025 02:23:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[13Sep2025 02:24:00.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Grave Ravager]
+[13Sep2025 02:24:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 02:24:33.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[13Sep2025 02:24:36.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[13Sep2025 02:24:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 02:24:42.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 02:25:10.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[13Sep2025 02:26:13.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asdd
+[13Sep2025 02:26:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[13Sep2025 02:26:29.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[13Sep2025 02:26:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[13Sep2025 02:26:29.078] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Sep2025 02:27:00.081] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d04b955[id=<null>,name=Konnorcito,properties={},legacy=false] (/100.108.44.123:50365) lost connection: Disconnected
+[13Sep2025 02:27:41.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:50643] logged in with entity id 74257 at (284.766027255386, 73.5, 3771.800000011921)
+[13Sep2025 02:27:41.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[13Sep2025 02:27:41.259] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[13Sep2025 02:27:49.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[13Sep2025 02:30:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported KodaMakuin to Kilkov_]
+[13Sep2025 02:30:59.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]

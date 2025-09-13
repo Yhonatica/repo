@@ -5032,6 +5032,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_1": "2025-09-13 02:24:01 +0000"
+    },
+    "done": false
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-09-13 02:21:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-13 01:41:54 +0000"
@@ -5197,6 +5209,12 @@
   "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
     "criteria": {
       "has_dragonscale_electric": "2025-09-13 01:55:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-09-13 02:24:00 +0000"
     },
     "done": true
   },
