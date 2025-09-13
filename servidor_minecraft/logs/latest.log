@@ -943,3 +943,12 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [13Sep2025 04:32:18.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
 [13Sep2025 04:33:46.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
 [13Sep2025 04:34:12.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[13Sep2025 04:37:53.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo Martin (vehicle of Konnorcito) moved wrongly! 0.3994106880874142
+[13Sep2025 04:37:53.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo Martin (vehicle of Konnorcito) moved wrongly! 1.0003848149609667
+[13Sep2025 04:37:53.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo Martin (vehicle of Konnorcito) moved wrongly! 1.2525625384439536
+[13Sep2025 04:37:58.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo Martin (vehicle of Konnorcito) moved too quickly! -9.30471636655966,-0.375,3.6912525146890403
+[13Sep2025 04:37:58.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo Martin (vehicle of Konnorcito) moved too quickly! -9.30471636655966,-0.375,3.6912525146890403
+[13Sep2025 04:37:58.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo Martin (vehicle of Konnorcito) moved too quickly! -9.30471636655966,-0.375,3.6912525146890403
+[13Sep2025 04:38:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [A Seedy Place]
+[13Sep2025 04:39:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 04:39:37.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
