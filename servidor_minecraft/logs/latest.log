@@ -899,3 +899,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 21:34:22.386] [Worker-Main-150/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Sep2025 21:35:21.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Eye of The Storm]
 [13Sep2025 21:35:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Milk Bucket] to Kilkov_]
+[13Sep2025 21:39:00.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [No Step on Snake]
+[13Sep2025 21:39:17.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:50278] logged in with entity id 67341 at (814.7118400483569, 110.0, 4008.4507130703855)
+[13Sep2025 21:39:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[13Sep2025 21:39:17.725] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[13Sep2025 21:43:45.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Sep2025 21:44:22.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[13Sep2025 21:44:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 21:45:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 21:45:29.809] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/65573, l='ServerLevel[world]', x=-622.52, y=63.00, z=11170.96] died, message: 'Unemployed hit the ground too hard'
+[13Sep2025 21:45:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[13Sep2025 21:46:28.294] [Worker-Main-160/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[13Sep2025 21:46:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[13Sep2025 21:46:46.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Another Desert Temple!]
+[13Sep2025 21:46:52.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/72578, l='ServerLevel[world]', x=-633.79, y=64.00, z=11122.42] died, message: 'Unemployed was slain by Guster'
+[13Sep2025 21:47:16.954] [Worker-Main-183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[13Sep2025 21:47:17.023] [Worker-Main-183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[13Sep2025 21:47:17.085] [Worker-Main-183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[13Sep2025 21:47:45.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 21:47:46.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 21:48:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Return Scroll] to Kilkov_]
+[13Sep2025 21:48:18.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -31.266306563591343,0.5,242.7386509746375
+[13Sep2025 21:48:21.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Return Scroll] to Kilkov_]
