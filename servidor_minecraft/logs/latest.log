@@ -825,3 +825,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 18:06:09.778] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
 [13Sep2025 18:06:23.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
 [13Sep2025 18:10:25.796] [Server thread/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[13Sep2025 18:16:49.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 18:16:58.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! -8.25091234010847,5.244335946623707,-2.5579894138227246
+[13Sep2025 18:18:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
