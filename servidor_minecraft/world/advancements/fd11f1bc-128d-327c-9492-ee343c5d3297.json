@@ -84,6 +84,7 @@
       "minecraft:snowy_taiga": "2025-09-06 22:23:43 +0000",
       "minecraft:cold_ocean": "2025-09-08 20:56:25 +0000",
       "minecraft:forest": "2025-09-06 01:54:11 +0000",
+      "minecraft:lush_caves": "2025-09-13 00:14:31 +0000",
       "minecraft:ice_spikes": "2025-09-06 22:33:06 +0000",
       "minecraft:frozen_ocean": "2025-09-08 23:20:25 +0000",
       "minecraft:desert": "2025-09-06 03:01:24 +0000",
@@ -4959,6 +4960,72 @@
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-09-12 01:06:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-09-13 00:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-13 00:15:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-09-13 00:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-13 00:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-09-13 00:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-09-13 00:05:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_bomber": {
+    "criteria": {
+      "ambusher": "2025-09-13 00:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-09-13 00:05:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-09-13 00:09:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-13 00:15:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-09-13 00:10:21 +0000"
     },
     "done": true
   },
