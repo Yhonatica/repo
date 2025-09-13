@@ -5518,6 +5518,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-09-13 22:06:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-09-13 21:47:55 +0000"
@@ -5530,6 +5536,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-09-13 22:06:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-09-13 22:06:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-09-13 21:47:55 +0000"
@@ -5539,6 +5557,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-09-13 21:47:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-09-13 22:09:56 +0000"
     },
     "done": true
   },

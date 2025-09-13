@@ -961,3 +961,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 22:08:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
 [13Sep2025 22:08:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
 [13Sep2025 22:08:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 22:09:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Mother of Dragons]
+[13Sep2025 22:10:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 22:11:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[13Sep2025 22:11:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[13Sep2025 22:11:34.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 9.623243153684825,0.0,-4.824583672687822
+[13Sep2025 22:11:34.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved too quickly! -1.3235370942277314,0.0,10.625467874433525
+[13Sep2025 22:11:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[13Sep2025 22:12:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[13Sep2025 22:12:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[13Sep2025 22:12:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[13Sep2025 22:12:40.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 22:14:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[13Sep2025 22:14:40.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[13Sep2025 22:15:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[13Sep2025 22:15:41.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[13Sep2025 22:17:13.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[13Sep2025 22:17:16.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
