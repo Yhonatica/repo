@@ -1002,3 +1002,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Sep2025 22:54:52.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
 [13Sep2025 22:54:52.809] [Server thread/INFO] [Jade/]: Syncing config to KodaMakuin (9cd64dad-55f5-368e-803f-20bf10a5a03a)
 [13Sep2025 22:56:35.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[13Sep2025 23:02:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Kilkov_]
+[13Sep2025 23:02:34.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]

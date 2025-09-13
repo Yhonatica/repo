@@ -5530,6 +5530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-09-13 23:01:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-09-13 22:28:37 +0000"
@@ -5599,6 +5605,12 @@
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2025-09-13 22:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-09-13 23:01:39 +0000"
     },
     "done": true
   },
