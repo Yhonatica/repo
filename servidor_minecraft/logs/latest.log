@@ -406,3 +406,7 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [13Sep2025 01:38:41.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
 [13Sep2025 01:40:19.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> Espanta
 [13Sep2025 01:47:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Dragon Commander]
+[13Sep2025 01:57:43.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [The Heart and the Flame]
+[13Sep2025 01:58:03.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[13Sep2025 02:00:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[13Sep2025 02:00:21.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
