@@ -5334,9 +5334,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_the_recipe": "2025-09-13 23:43:46 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed_by": "2025-09-13 21:39:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-09-13 23:43:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-09-13 23:43:43 +0000"
     },
     "done": true
   },
@@ -5355,6 +5373,12 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-09-13 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-09-13 23:43:50 +0000"
     },
     "done": true
   },
@@ -5415,6 +5439,18 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-09-13 22:40:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_the_recipe": "2025-09-13 23:43:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-09-13 23:48:19 +0000"
     },
     "done": true
   },
