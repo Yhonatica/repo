@@ -243,6 +243,7 @@
     "criteria": {
       "cooked_porkchop": "2025-09-06 03:48:53 +0000",
       "cooked_mutton": "2025-09-07 01:43:11 +0000",
+      "sweet_berries": "2025-09-13 04:23:56 +0000",
       "cooked_beef": "2025-09-06 05:27:05 +0000",
       "potato": "2025-09-06 05:00:31 +0000",
       "bread": "2025-09-06 02:34:18 +0000",
@@ -4687,6 +4688,12 @@
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2025-09-13 03:26:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-09-13 04:27:15 +0000"
     },
     "done": true
   },
