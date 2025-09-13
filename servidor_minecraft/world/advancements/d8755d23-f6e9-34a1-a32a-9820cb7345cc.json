@@ -5524,6 +5524,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-09-13 22:27:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 22:28:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-09-13 22:27:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-09-13 21:47:55 +0000"
@@ -5548,15 +5566,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 22:28:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-09-13 21:47:55 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-09-13 22:28:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-09-13 21:47:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-09-13 22:27:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-09-13 22:27:52 +0000"
     },
     "done": true
   },

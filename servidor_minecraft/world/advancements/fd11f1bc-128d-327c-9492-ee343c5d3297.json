@@ -5340,6 +5340,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-13 22:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-09-13 21:58:32 +0000"
@@ -5351,6 +5357,12 @@
       "has_raw_copper": "2025-09-13 21:58:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-09-13 22:35:07 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
