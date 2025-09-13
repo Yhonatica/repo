@@ -5296,6 +5296,12 @@
     },
     "done": true
   },
+  "nethers_exorcism_reborn:shinierarmor": {
+    "criteria": {
+      "shinierarmor_0": "2025-09-13 06:14:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-09-13 05:23:49 +0000"
@@ -5317,6 +5323,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-09-13 05:34:01 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-09-13 06:14:34 +0000"
     },
     "done": true
   },
