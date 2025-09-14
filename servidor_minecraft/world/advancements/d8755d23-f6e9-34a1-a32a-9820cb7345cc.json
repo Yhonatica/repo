@@ -66,6 +66,7 @@
       "minecraft:frozen_river": "2025-09-06 22:16:22 +0000",
       "minecraft:sunflower_plains": "2025-09-06 02:43:24 +0000",
       "minecraft:birch_forest": "2025-09-06 02:52:32 +0000",
+      "minecraft:windswept_hills": "2025-09-14 00:23:56 +0000",
       "minecraft:bamboo_jungle": "2025-09-06 05:43:41 +0000",
       "minecraft:wooded_badlands": "2025-09-06 06:50:12 +0000",
       "minecraft:badlands": "2025-09-06 06:50:18 +0000",
@@ -5506,6 +5507,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-09-14 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-09-14 00:00:30 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_ruined_pyramid": {
     "criteria": {
       "ruined_pyramid": "2025-09-13 21:46:46 +0000"
@@ -5515,6 +5528,12 @@
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-09-13 21:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-09-14 00:00:30 +0000"
     },
     "done": true
   },
@@ -5533,6 +5552,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-09-13 23:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 00:00:39 +0000"
     },
     "done": true
   },
@@ -5560,6 +5585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 00:00:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-09-13 21:47:55 +0000"
@@ -5572,6 +5603,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 00:00:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-09-13 22:06:26 +0000"
@@ -5581,6 +5618,12 @@
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2025-09-13 22:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 00:00:39 +0000"
     },
     "done": true
   },
@@ -5608,6 +5651,24 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:naughty_child": {
+    "criteria": {
+      "naughty_child_0": "2025-09-14 00:23:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-09-14 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-09-14 00:31:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2025-09-13 22:27:52 +0000"
@@ -5619,6 +5680,12 @@
       "has_brick": "2025-09-13 23:01:39 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2025-09-14 00:15:42 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
