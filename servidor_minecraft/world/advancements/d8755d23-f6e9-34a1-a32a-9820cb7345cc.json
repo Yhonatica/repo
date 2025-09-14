@@ -5543,6 +5543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-14 00:56:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
       "has_item": "2025-09-13 22:27:52 +0000"
@@ -5594,6 +5600,12 @@
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-09-13 21:47:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-09-14 00:51:45 +0000"
     },
     "done": true
   },

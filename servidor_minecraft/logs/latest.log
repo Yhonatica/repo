@@ -74,3 +74,26 @@
 [14Sep2025 00:41:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Forged in Flame]
 [14Sep2025 00:42:15.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
 [14Sep2025 00:42:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[14Sep2025 00:44:26.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Horror Under the Mantle]
+[14Sep2025 00:44:42.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ was kicked for floating too long!
+[14Sep2025 00:44:42.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Flying is not enabled on this server
+[14Sep2025 00:44:42.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[14Sep2025 00:44:46.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:50874] logged in with entity id 179616 at (794.8473788304696, 106.49550413542775, 3940.7663962071747)
+[14Sep2025 00:44:47.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[14Sep2025 00:44:47.054] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[14Sep2025 00:45:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[14Sep2025 00:47:12.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[14Sep2025 00:50:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[14Sep2025 00:51:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Dragon Growth Hormone]
+[14Sep2025 00:54:59.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[14Sep2025 00:56:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[14Sep2025 00:57:55.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[14Sep2025 00:58:05.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Konnorcito to KodaMakuin]
+[14Sep2025 00:58:09.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[14Sep2025 01:00:30.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[14Sep2025 01:01:28.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/184282, l='ServerLevel[world]', x=1016.82, y=70.00, z=4047.70] died, message: 'Unemployed was slain by Zombie'
+[14Sep2025 01:01:38.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/184283, l='ServerLevel[world]', x=1022.23, y=70.00, z=4051.00] died, message: 'Unemployed was slain by Zombie'
+[14Sep2025 01:02:03.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/184723, l='ServerLevel[world]', x=1025.70, y=66.38, z=4022.50] died, message: 'Unemployed was slain by Zombie'
+[14Sep2025 01:02:07.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/184721, l='ServerLevel[world]', x=1026.14, y=65.00, z=4023.70] died, message: 'Unemployed was slain by Zombie'
+[14Sep2025 01:02:10.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/184722, l='ServerLevel[world]', x=1026.14, y=65.63, z=4023.70] died, message: 'Weaponsmith was slain by Zombie'
+[14Sep2025 01:02:17.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
