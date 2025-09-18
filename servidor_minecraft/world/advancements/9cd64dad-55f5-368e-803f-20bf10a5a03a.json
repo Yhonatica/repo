@@ -61,12 +61,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-14 03:30:07 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-06 22:14:35 +0000",
       "minecraft:taiga": "2025-09-06 05:51:56 +0000",
       "minecraft:deep_ocean": "2025-09-11 21:02:40 +0000",
       "minecraft:eroded_badlands": "2025-09-06 05:57:11 +0000",
       "minecraft:frozen_river": "2025-09-06 06:58:16 +0000",
       "minecraft:sunflower_plains": "2025-09-06 05:43:41 +0000",
+      "minecraft:cherry_grove": "2025-09-14 03:26:49 +0000",
       "minecraft:birch_forest": "2025-09-06 02:52:15 +0000",
       "minecraft:windswept_hills": "2025-09-06 05:43:50 +0000",
       "minecraft:wooded_badlands": "2025-09-11 20:54:58 +0000",
@@ -83,6 +85,8 @@
       "minecraft:dripstone_caves": "2025-09-06 04:49:33 +0000",
       "minecraft:snowy_taiga": "2025-09-06 06:58:14 +0000",
       "minecraft:swamp": "2025-09-06 06:07:43 +0000",
+      "minecraft:grove": "2025-09-14 02:44:53 +0000",
+      "minecraft:jagged_peaks": "2025-09-14 02:56:36 +0000",
       "minecraft:cold_ocean": "2025-09-06 06:52:17 +0000",
       "minecraft:forest": "2025-09-06 01:52:16 +0000",
       "minecraft:lush_caves": "2025-09-13 05:20:42 +0000",
@@ -96,6 +100,7 @@
       "minecraft:windswept_savanna": "2025-09-06 06:08:00 +0000",
       "minecraft:warm_ocean": "2025-09-06 05:52:43 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-11 21:02:22 +0000",
+      "minecraft:frozen_peaks": "2025-09-14 03:33:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 02:58:08 +0000",
       "minecraft:meadow": "2025-09-06 06:23:53 +0000",
       "minecraft:savanna": "2025-09-06 02:05:45 +0000",
@@ -1128,6 +1133,7 @@
       "minecraft:witch": "2025-09-06 03:28:43 +0000",
       "minecraft:wither_skeleton": "2025-09-13 04:20:09 +0000",
       "minecraft:husk": "2025-09-06 02:16:16 +0000",
+      "minecraft:cave_spider": "2025-09-14 02:54:38 +0000",
       "minecraft:enderman": "2025-09-06 04:14:08 +0000",
       "minecraft:stray": "2025-09-06 07:20:14 +0000",
       "minecraft:vex": "2025-09-06 02:36:57 +0000",
@@ -5041,7 +5047,9 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_2": "2025-09-13 03:50:18 +0000"
+      "trickor_treat_2": "2025-09-13 03:50:18 +0000",
+      "trickor_treat_3": "2025-09-14 01:41:08 +0000",
+      "trickor_treat_7": "2025-09-14 01:40:40 +0000"
     },
     "done": false
   },
@@ -5237,6 +5245,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-09-13 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-09-14 00:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-09-14 00:04:23 +0000"
@@ -5273,30 +5293,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-09-14 00:22:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-09-14 00:03:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
-    "criteria": {
-      "has_dragonscale_bronze": "2025-09-14 01:09:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-09-14 00:24:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-09-14 00:04:23 +0000"
@@ -5306,12 +5302,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-14 00:04:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-09-13 23:42:22 +0000"
     },
     "done": true
   },
@@ -5333,18 +5323,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-09-14 00:42:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-09-14 00:13:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-09-14 00:04:23 +0000"
@@ -5357,9 +5335,309 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-09-14 00:13:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-09-14 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-09-14 00:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-09-14 00:42:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-09-14 01:07:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2025-09-14 01:09:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-09-14 01:33:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-09-14 01:33:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-09-14 01:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-09-14 01:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-09-14 01:41:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-09-14 01:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-09-14 01:41:15 +0000"
+    },
+    "done": true
+  },
+  "cnc:harmless_snakeadvancement": {
+    "criteria": {
+      "harmless_snakeadvancement_0": "2025-09-14 01:52:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-09-14 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-14 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-09-14 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-09-14 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-09-14 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-09-14 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-09-14 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-09-14 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-09-14 02:27:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-09-14 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-09-14 02:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-14 02:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-09-14 02:55:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-09-14 03:03:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-09-14 03:08:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_3": "2025-09-14 03:24:04 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:infernal_hatman": {
+    "criteria": {
+      "infernal_hatman_0": "2025-09-14 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-09-14 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-09-14 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-09-14 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-14 03:34:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-09-14 03:34:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-09-14 03:34:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-09-14 03:35:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_dragonscale_green": "2025-09-14 03:47:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-09-14 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2025-09-14 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-09-14 03:50:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-09-14 04:04:37 +0000"
+    },
+    "done": true
+  },
+  "cnc:skunk_advancement": {
+    "criteria": {
+      "skunk_advancement_0": "2025-09-14 04:10:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-09-14 04:14:35 +0000"
     },
     "done": true
   },
