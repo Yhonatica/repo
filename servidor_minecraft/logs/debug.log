@@ -8379,3 +8379,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [19Sep2025 04:03:24.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/165492, l='ServerLevel[world]', x=983.30, y=62.00, z=3993.30] died, message: 'Unemployed was shot by Konnorcito'
 [19Sep2025 04:04:51.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/165493, l='ServerLevel[world]', x=983.38, y=62.00, z=3989.30] died, message: 'Unemployed was slain by Konnorcito'
 [19Sep2025 04:05:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 04:07:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 04:07:46.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 04:07:46.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 04:08:14.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Lectern] to Kilkov_]
+[19Sep2025 04:08:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Lectern] to Kilkov_]
+[19Sep2025 04:08:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Lectern] to Kilkov_]
+[19Sep2025 04:08:16.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Lectern] to Kilkov_]
+[19Sep2025 04:08:16.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Gave 1 [Lectern] to Kilkov_]
+[19Sep2025 04:10:48.905] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 983 3984 3984 VisualFallingBlockEntity['Falling Dirt'/231133, l='ServerLevel[world]', x=983.50, y=63.00, z=3984.50]
+[19Sep2025 04:11:07.905] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:grass_block}[snowy=false] 987 4000 4000 VisualFallingBlockEntity['Falling Grass Block'/231189, l='ServerLevel[world]', x=987.50, y=66.00, z=4000.50]
+[19Sep2025 04:11:07.908] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 983 4002 4002 VisualFallingBlockEntity['Falling Dirt'/231190, l='ServerLevel[world]', x=983.50, y=64.00, z=4002.50]
+[19Sep2025 04:11:27.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/165495, l='ServerLevel[world]', x=983.47, y=62.00, z=3997.30] died, message: 'Librarian was slain by KodaMakuin'
+[19Sep2025 04:12:37.474] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/165419, l='ServerLevel[world]', x=983.43, y=62.00, z=3997.57] died, message: 'Unemployed was slain by Konnorcito'
+[19Sep2025 04:12:46.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 04:12:46.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 04:13:40.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/165494, l='ServerLevel[world]', x=970.50, y=65.17, z=4015.71] died, message: 'Nitwit was slain by Konnorcito'
+[19Sep2025 04:14:37.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[19Sep2025 04:14:47.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[19Sep2025 04:15:25.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Konnorcito to Kilkov_]
