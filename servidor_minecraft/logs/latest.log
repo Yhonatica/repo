@@ -535,3 +535,27 @@
 [19Sep2025 04:26:53.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:58197] logged in with entity id 240913 at (3171.718193474833, 122.0, 5466.076940327626)
 [19Sep2025 04:26:53.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
 [19Sep2025 04:26:53.729] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[19Sep2025 04:30:20.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Konnorcito) moved wrongly! 0.2565844362275129
+[19Sep2025 04:30:20.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Konnorcito) moved wrongly! 0.9658951669562157
+[19Sep2025 04:30:20.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Konnorcito) moved wrongly! 1.6822840677068598
+[19Sep2025 04:30:45.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asddd
+[19Sep2025 04:30:52.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> assdd
+[19Sep2025 04:31:05.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [How long's this been here?]
+[19Sep2025 04:33:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[19Sep2025 04:33:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[19Sep2025 04:33:21.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[19Sep2025 04:33:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[19Sep2025 04:34:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[19Sep2025 04:39:02.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [A Terrifying Entrance]
+[19Sep2025 04:39:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Living Armor]
+[19Sep2025 04:39:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Undead Guard]
+[19Sep2025 04:40:35.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[19Sep2025 04:40:59.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 3279.500000, 127.000000, 5824.500000]
+[19Sep2025 04:41:02.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[19Sep2025 04:41:05.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[19Sep2025 04:41:29.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: The difficulty has been set to Peaceful]
+[19Sep2025 04:41:34.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: The difficulty has been set to Hard]
+[19Sep2025 04:42:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 04:45:22.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[19Sep2025 04:47:05.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 04:47:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Konnorcito to Kilkov_]

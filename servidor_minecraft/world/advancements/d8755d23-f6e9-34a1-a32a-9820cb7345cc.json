@@ -67,6 +67,7 @@
       "minecraft:deep_ocean": "2025-09-14 03:40:58 +0000",
       "minecraft:frozen_river": "2025-09-06 22:16:22 +0000",
       "minecraft:sunflower_plains": "2025-09-06 02:43:24 +0000",
+      "minecraft:cherry_grove": "2025-09-19 04:30:12 +0000",
       "minecraft:birch_forest": "2025-09-06 02:52:32 +0000",
       "minecraft:windswept_hills": "2025-09-14 00:23:56 +0000",
       "minecraft:bamboo_jungle": "2025-09-06 05:43:41 +0000",
@@ -102,6 +103,7 @@
       "minecraft:warm_ocean": "2025-09-12 01:07:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-14 02:38:36 +0000",
       "minecraft:flower_forest": "2025-09-06 22:09:13 +0000",
+      "minecraft:frozen_peaks": "2025-09-19 04:37:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 02:25:15 +0000",
       "minecraft:meadow": "2025-09-06 06:41:32 +0000",
       "minecraft:savanna": "2025-09-06 02:44:02 +0000",
@@ -6071,6 +6073,36 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-09-19 03:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-19 04:38:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-09-19 04:39:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-09-19 04:31:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-09-19 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-09-19 04:39:07 +0000"
     },
     "done": true
   },
