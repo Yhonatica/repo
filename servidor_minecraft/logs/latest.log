@@ -682,3 +682,37 @@
 [19Sep2025 05:15:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [You Need a Mint]
 [19Sep2025 05:16:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
 [19Sep2025 05:16:50.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[19Sep2025 05:20:20.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ was kicked for floating too long!
+[19Sep2025 05:20:20.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Flying is not enabled on this server
+[19Sep2025 05:20:20.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[19Sep2025 05:20:26.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:62898] logged in with entity id 293263 at (258.1189708952658, 159.98537946440095, 8648.028612170623)
+[19Sep2025 05:20:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[19Sep2025 05:20:26.932] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[19Sep2025 05:20:33.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ was kicked for floating too long!
+[19Sep2025 05:20:33.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Flying is not enabled on this server
+[19Sep2025 05:20:33.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[19Sep2025 05:20:37.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:62904] logged in with entity id 294050 at (258.12060021060347, 159.98537946440095, 8648.02253316088)
+[19Sep2025 05:20:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[19Sep2025 05:20:37.681] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[19Sep2025 05:20:43.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[19Sep2025 05:20:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: The difficulty has been set to Peaceful]
+[19Sep2025 05:21:36.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 05:21:49.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[19Sep2025 05:21:55.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: The difficulty has been set to Hard]
+[19Sep2025 05:22:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed by Apothecarist using magic
+[19Sep2025 05:22:23.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.bee_19.09.2025-05.22.23.dat
+[19Sep2025 05:22:30.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 05:22:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 05:22:37.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 05:22:48.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[19Sep2025 05:23:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 05:23:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 05:24:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> 2480 104 5314
+[19Sep2025 05:24:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[19Sep2025 05:24:47.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 05:24:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 05:25:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 05:25:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[19Sep2025 05:25:56.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to 2480.500000, 104.000000, 5314.500000]
+[19Sep2025 05:26:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [Horror Under the Mantle]
+[19Sep2025 05:27:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to 848.500000, 113.000000, 4070.500000]
