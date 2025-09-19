@@ -5641,12 +5641,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-09-19 01:36:01 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-09-19 01:32:49 +0000"
@@ -5659,9 +5653,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-09-19 01:36:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/warped_mosco_kill": {
     "criteria": {
       "killed": "2025-09-19 01:38:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-09-19 02:12:53 +0000"
     },
     "done": true
   },
