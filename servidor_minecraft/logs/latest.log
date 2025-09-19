@@ -266,3 +266,67 @@
 [19Sep2025 02:24:17.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> wardable
 [19Sep2025 02:24:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
 [19Sep2025 02:28:41.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[19Sep2025 02:31:57.847] [Worker-Main-156/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[19Sep2025 02:33:20.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Timed out
+[19Sep2025 02:33:20.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[19Sep2025 02:33:25.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:57652] logged in with entity id 122675 at (816.1537489933398, 121.0, 4014.6961367380927)
+[19Sep2025 02:33:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[19Sep2025 02:33:25.947] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[19Sep2025 02:34:00.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 9.958280047950325,0.4579342742188004,1.5948228445745372
+[19Sep2025 02:34:00.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 11.389950211606788,0.49630270545166866,2.0167498600653744
+[19Sep2025 02:34:00.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 12.812667478878438,0.5301436617990589,2.490173242133551
+[19Sep2025 02:34:00.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 14.219104722948373,0.5599913852974652,3.0211822173291694
+[19Sep2025 02:34:06.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 0.26682710775173746,0.0,10.951262641869107
+[19Sep2025 02:34:06.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 0.3061394190572173,0.0,12.518884917646574
+[19Sep2025 02:40:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> mamalo
+[19Sep2025 02:40:54.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [Arachnophobe's Nightmare]
+[19Sep2025 02:41:03.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Arachnophobe's Nightmare]
+[19Sep2025 02:43:14.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 9.219840716300155,2.975816618414143,3.1193856775144013
+[19Sep2025 02:43:36.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 0.2402751738122788,0.0,-11.015440066305473
+[19Sep2025 02:43:36.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 0.0958222747470927,0.0,-12.570097957958296
+[19Sep2025 02:43:36.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -0.09066250600869807,0.0,-14.11887748056688
+[19Sep2025 02:43:36.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -0.31751173493694296,0.0,-15.661342814379168
+[19Sep2025 02:43:36.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -0.583031495861178,0.0,-17.197123944474697
+[19Sep2025 02:43:36.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -0.8840852658481708,0.0,-18.726470511772277
+[19Sep2025 02:43:36.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -1.2170996342738363,0.0,-20.249903501922745
+[19Sep2025 02:43:36.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -1.5783032505223673,0.0,-21.768120717029433
+[19Sep2025 02:43:36.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -1.9643697833506621,0.0,-23.281737618547595
+[19Sep2025 02:43:36.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -2.3723654086022634,0.0,-24.791297043480427
+[19Sep2025 02:43:36.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! -3.138650541519951,0.0,-16.842546225972
+[19Sep2025 02:44:16.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> pa que mrd me sacas del disc?
+[19Sep2025 02:44:24.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ¿
+[19Sep2025 02:44:25.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ?
+[19Sep2025 02:44:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> no te esta sacando nadie
+[19Sep2025 02:45:34.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ was kicked for floating too long!
+[19Sep2025 02:45:34.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Flying is not enabled on this server
+[19Sep2025 02:45:34.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[19Sep2025 02:45:41.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:61756] logged in with entity id 150361 at (256.5641540230002, 160.74737970641655, 8662.55137169642)
+[19Sep2025 02:45:41.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[19Sep2025 02:45:41.641] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[19Sep2025 02:46:01.649] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=409, y=-6, z=2226}
+[19Sep2025 02:46:01.649] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=409, y=-6, z=2228}
+[19Sep2025 02:47:46.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[19Sep2025 02:47:46.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[19Sep2025 02:48:35.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> asd
+[19Sep2025 02:53:57.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[19Sep2025 02:53:58.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:57740] logged in with entity id 165256 at (816.6289471033763, 110.0, 4012.691258394131)
+[19Sep2025 02:53:58.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[19Sep2025 02:53:58.041] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[19Sep2025 02:54:47.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Double Trouble]
+[19Sep2025 02:56:23.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Spectator Mode]
+[19Sep2025 02:57:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[19Sep2025 02:57:11.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ was kicked for floating too long!
+[19Sep2025 02:57:11.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Flying is not enabled on this server
+[19Sep2025 02:57:11.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[19Sep2025 02:57:15.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:61819] logged in with entity id 173717 at (233.81010433210125, 163.06165856851973, 8642.628728648095)
+[19Sep2025 02:57:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[19Sep2025 02:57:15.533] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[19Sep2025 02:57:49.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/169415, l='ServerLevel[world]', x=1737.42, y=67.50, z=1622.95] died, message: 'Unemployed was slain by Lightning Dragon'
+[19Sep2025 03:00:39.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 9.629537788612652,0.0,5.161757803205546
+[19Sep2025 03:00:39.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 10.964151812286218,0.0,5.976050656815005
+[19Sep2025 03:00:39.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 12.262804371838229,0.0,6.84155898486506
+[19Sep2025 03:00:39.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 13.528363810651172,0.0,7.75336310941384
+[19Sep2025 03:00:39.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 14.764564271230483,0.0,8.706138254692178
+[19Sep2025 03:00:39.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 15.97451368759448,0.0,9.695336979633794
+[19Sep2025 03:00:39.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 17.161309682960564,0.0,10.716661301838485
+[19Sep2025 03:00:39.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ahkrin (vehicle of KodaMakuin) moved too quickly! 10.07294166657448,0.0,7.361277829539176
