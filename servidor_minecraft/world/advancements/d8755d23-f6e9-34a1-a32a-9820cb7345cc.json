@@ -106,6 +106,7 @@
       "minecraft:frozen_peaks": "2025-09-19 04:37:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-06 02:25:15 +0000",
       "minecraft:meadow": "2025-09-06 06:41:32 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-09-19 05:04:59 +0000",
       "minecraft:savanna": "2025-09-06 02:44:02 +0000",
       "minecraft:plains": "2025-09-06 01:54:47 +0000"
     },
@@ -6076,6 +6077,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-09-19 04:31:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-09-19 04:38:56 +0000"
@@ -6088,9 +6095,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+  "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
-      "requirement": "2025-09-19 04:31:05 +0000"
+      "ambusher": "2025-09-19 04:39:07 +0000"
     },
     "done": true
   },
@@ -6100,9 +6107,45 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_haunted_knight": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "ambusher": "2025-09-19 04:39:07 +0000"
+      "killed_fire_dragon": "2025-09-19 05:08:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-09-19 05:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-09-19 05:15:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-09-19 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-09-19 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "cnc:marmot_advancement": {
+    "criteria": {
+      "marmot_advancement_0": "2025-09-19 05:01:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-09-19 05:05:13 +0000"
     },
     "done": true
   },
