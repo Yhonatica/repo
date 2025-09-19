@@ -5647,6 +5647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-19 01:00:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
     "criteria": {
       "has_item": "2025-09-19 00:53:01 +0000"
@@ -5671,6 +5677,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_6": "2025-09-19 01:00:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-09-19 00:58:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
     "criteria": {
       "has_item": "2025-09-19 00:53:01 +0000"
@@ -5680,6 +5698,12 @@
   "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-09-19 00:53:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-09-19 01:00:30 +0000"
     },
     "done": true
   },
@@ -5704,6 +5728,12 @@
   "iceandfire:recipes/tools/dragonsteel_fire_axe": {
     "criteria": {
       "has_item": "2025-09-19 00:53:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-09-19 01:00:08 +0000"
     },
     "done": true
   },
