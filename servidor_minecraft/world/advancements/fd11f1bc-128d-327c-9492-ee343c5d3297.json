@@ -5689,6 +5689,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-19 03:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-09-19 03:18:00 +0000"
