@@ -469,3 +469,18 @@
 [19Sep2025 03:55:59.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
 [19Sep2025 03:55:59.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
 [19Sep2025 03:55:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[19Sep2025 03:56:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[19Sep2025 03:57:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Hot Stuff]
+[19Sep2025 03:57:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Gave 2 [Lava Bucket] to Konnorcito]
+[19Sep2025 03:57:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[19Sep2025 03:58:51.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[19Sep2025 04:00:51.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[19Sep2025 04:00:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[19Sep2025 04:00:57.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:62395] logged in with entity id 229889 at (982.6776226872205, 64.0, 3993.553832266212)
+[19Sep2025 04:00:57.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[19Sep2025 04:00:57.898] [Server thread/INFO] [Jade/]: Syncing config to Kilkov_ (fd11f1bc-128d-327c-9492-ee343c5d3297)
+[19Sep2025 04:01:19.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[19Sep2025 04:02:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 04:03:24.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/165492, l='ServerLevel[world]', x=983.30, y=62.00, z=3993.30] died, message: 'Unemployed was shot by Konnorcito'
+[19Sep2025 04:04:51.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/165493, l='ServerLevel[world]', x=983.38, y=62.00, z=3989.30] died, message: 'Unemployed was slain by Konnorcito'
+[19Sep2025 04:05:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
