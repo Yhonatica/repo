@@ -5776,9 +5776,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_cloudy_temple": {
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
     "criteria": {
-      "cloudy_temple": "2025-09-14 02:59:21 +0000"
+      "has_the_recipe": "2025-09-14 02:45:26 +0000"
     },
     "done": true
   },
@@ -5788,9 +5788,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
     "criteria": {
-      "has_red_dye": "2025-09-14 02:53:05 +0000"
+      "has_the_recipe": "2025-09-14 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_the_recipe": "2025-09-14 02:45:35 +0000"
     },
     "done": true
   },
@@ -5800,15 +5806,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_lord": {
+  "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
-      "pumpkin_lord_0": "2025-09-14 03:23:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "sword": "2025-09-14 02:54:51 +0000"
+      "spiky_bug": "2025-09-14 02:48:13 +0000"
     },
     "done": true
   },
@@ -5818,63 +5818,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/turtle_helmet": {
-    "criteria": {
-      "has_scute": "2025-09-14 03:18:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-09-14 02:56:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-09-14 02:53:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-14 02:52:36 +0000"
     },
     "done": true
   },
-  "cnc:greywolfadvancement": {
-    "criteria": {
-      "greywolfadvancement_0": "2025-09-14 03:25:50 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:hatman": {
-    "criteria": {
-      "hatman_3": "2025-09-14 03:23:09 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-09-14 02:52:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/ghost_sword": {
-    "criteria": {
-      "has_item": "2025-09-14 02:56:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-09-14 03:16:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-09-14 02:57:13 +0000"
     },
     "done": true
   },
@@ -5887,6 +5839,66 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-14 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-09-14 02:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-14 02:53:05 +0000"
     },
     "done": true
   },
@@ -5908,57 +5920,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-09-14 02:52:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-09-14 02:52:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-09-14 02:53:05 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:infernal_hatman": {
-    "criteria": {
-      "infernal_hatman_0": "2025-09-14 03:23:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_gold_head": {
-    "criteria": {
-      "has_the_recipe": "2025-09-14 02:45:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-09-14 02:53:05 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_spiky_bug": {
-    "criteria": {
-      "spiky_bug": "2025-09-14 02:48:13 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-09-14 02:52:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-09-14 02:52:36 +0000"
     },
     "done": true
   },
@@ -5974,21 +5944,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+  "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
-      "has_white_dye": "2025-09-14 02:52:36 +0000"
+      "sword": "2025-09-14 02:54:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+  "iceandfire:recipes/combat/ghost_sword": {
     "criteria": {
-      "has_cobbled_deepslate_slab": "2025-09-14 03:44:26 +0000"
+      "has_item": "2025-09-14 02:56:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_white_dye": "2025-09-14 02:52:36 +0000"
+      "has_wither_rose": "2025-09-14 02:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-14 02:57:13 +0000"
     },
     "done": true
   },
@@ -5998,27 +5974,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+  "legendary_monsters:locate_cloudy_temple": {
     "criteria": {
-      "has_white_dye": "2025-09-14 02:52:36 +0000"
+      "cloudy_temple": "2025-09-14 02:59:21 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_the_recipe": "2025-09-14 02:45:35 +0000"
+      "has_chorus_fruit": "2025-09-14 03:16:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "has_white_dye": "2025-09-14 02:52:36 +0000"
+      "has_scute": "2025-09-14 03:18:26 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+  "born_in_chaos_v1:pumpkin_lord": {
     "criteria": {
-      "has_the_recipe": "2025-09-14 02:45:31 +0000"
+      "pumpkin_lord_0": "2025-09-14 03:23:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_3": "2025-09-14 03:23:09 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:infernal_hatman": {
+    "criteria": {
+      "infernal_hatman_0": "2025-09-14 03:23:09 +0000"
+    },
+    "done": true
+  },
+  "cnc:greywolfadvancement": {
+    "criteria": {
+      "greywolfadvancement_0": "2025-09-14 03:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-09-14 03:44:26 +0000"
     },
     "done": true
   },

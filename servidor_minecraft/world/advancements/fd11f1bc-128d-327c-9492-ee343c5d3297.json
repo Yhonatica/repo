@@ -5641,5 +5641,29 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-09-19 01:36:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-09-19 01:32:49 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_20": {
+    "criteria": {
+      "difficulty_level_20": "2025-09-19 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/warped_mosco_kill": {
+    "criteria": {
+      "killed": "2025-09-19 01:38:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

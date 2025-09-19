@@ -126,3 +126,55 @@
 [19Sep2025 01:08:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
 [19Sep2025 01:12:13.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
 [19Sep2025 01:12:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 01:22:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 01:26:42.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 01:28:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has reached the goal [New Age Librarian]
+[19Sep2025 01:30:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[19Sep2025 01:32:49.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Defunct Machinery]
+[19Sep2025 01:34:44.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Float Like A Butterfly...]
+[19Sep2025 01:35:31.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> 835 118 4060
+[19Sep2025 01:35:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[19Sep2025 01:36:01.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Big Boy]
+[19Sep2025 01:37:12.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has completed the challenge [It's Purple!]
+[19Sep2025 01:38:35.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has completed the challenge [Destroyer of Chads]
+[19Sep2025 01:39:30.312] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56894e21[id=<null>,name=Konnorcito,properties={},legacy=false] (/100.108.44.123:57436) lost connection: Disconnected
+[19Sep2025 01:39:39.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:57444] logged in with entity id 50926 at (814.5382322590765, 121.0, 4012.055547820635)
+[19Sep2025 01:39:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[19Sep2025 01:39:39.462] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[19Sep2025 01:41:06.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 01:41:12.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 01:41:14.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.0,-10.529193645291315,0.0
+[19Sep2025 01:41:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 01:41:38.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Strampling Predator]
+[19Sep2025 01:41:45.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[19Sep2025 01:42:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> rata
+[19Sep2025 01:42:10.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> q
+[19Sep2025 01:42:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> q max es el nivel de arena?
+[19Sep2025 01:42:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> metete a discord niño ratica
+[19Sep2025 01:42:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> infinix
+[19Sep2025 01:42:29.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[19Sep2025 01:42:34.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> no hay max?
+[19Sep2025 01:42:38.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> no
+[19Sep2025 01:42:48.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> y a partir de cual te dan los trofeos?
+[19Sep2025 01:42:51.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> hay uno de nethe
+[19Sep2025 01:43:12.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> 1 10 20 50 75 y 100 creo
+[19Sep2025 01:43:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> cual es la mierda pa que no te afecte el fuego?
+[19Sep2025 01:43:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> madera piedra hierro oro diamon y nethe
+[19Sep2025 01:43:57.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> prote contra la lava
+[19Sep2025 01:44:00.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> lo vendo
+[19Sep2025 01:44:03.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> :D
+[19Sep2025 01:44:15.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> for
+[19Sep2025 01:44:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> ahora
+[19Sep2025 01:44:28.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> tu culo
+[19Sep2025 01:44:30.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> sera mio
+[19Sep2025 01:46:04.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 01:46:11.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 01:46:28.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 01:46:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 01:47:31.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 01:47:32.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 01:48:01.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 01:48:03.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 01:48:59.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 01:49:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 01:49:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]

@@ -1128,6 +1128,7 @@
       "minecraft:spider": "2025-09-06 04:49:59 +0000",
       "minecraft:creeper": "2025-09-06 02:56:31 +0000",
       "minecraft:evoker": "2025-09-06 04:24:47 +0000",
+      "minecraft:slime": "2025-09-19 01:47:20 +0000",
       "minecraft:phantom": "2025-09-13 02:10:31 +0000",
       "minecraft:zombified_piglin": "2025-09-13 03:29:24 +0000",
       "minecraft:witch": "2025-09-06 03:28:43 +0000",
@@ -5653,6 +5654,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-09-19 01:28:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
     "criteria": {
       "has_item": "2025-09-19 00:53:01 +0000"
@@ -5662,6 +5669,12 @@
   "iceandfire:recipes/combat/dragonsteel_fire_boots": {
     "criteria": {
       "has_item": "2025-09-19 00:53:01 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:encounter_strampler": {
+    "criteria": {
+      "encounter_strampler_0": "2025-09-19 01:41:38 +0000"
     },
     "done": true
   },
@@ -5716,6 +5729,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_bricks": {
     "criteria": {
       "has_item": "2025-09-19 00:13:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-09-19 01:37:12 +0000"
     },
     "done": true
   },
