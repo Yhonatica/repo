@@ -716,3 +716,15 @@
 [19Sep2025 05:25:56.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to 2480.500000, 104.000000, 5314.500000]
 [19Sep2025 05:26:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [Horror Under the Mantle]
 [19Sep2025 05:27:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to 848.500000, 113.000000, 4070.500000]
+[19Sep2025 05:29:27.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 05:30:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has completed the challenge [Hero of Hyrule]
+[19Sep2025 05:30:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 05:30:33.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was slain by Warped Mosco
+[19Sep2025 05:30:33.971] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_19.09.2025-05.30.33.dat
+[19Sep2025 05:31:23.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.45175350828492356,-10.246394810895424,0.3570195674551542
+[19Sep2025 05:33:54.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[19Sep2025 05:33:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[19Sep2025 05:35:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[19Sep2025 05:35:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[19Sep2025 05:36:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[19Sep2025 05:36:05.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
