@@ -496,3 +496,42 @@
 [19Sep2025 04:14:37.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
 [19Sep2025 04:14:47.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
 [19Sep2025 04:15:25.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Konnorcito to Kilkov_]
+[19Sep2025 04:17:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Creative Mode]
+[19Sep2025 04:17:24.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[19Sep2025 04:18:29.838] [Worker-Main-23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Sep2025 04:18:29.838] [Worker-Main-23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Sep2025 04:18:37.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Creative Mode]
+[19Sep2025 04:18:46.013] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=612, y=-24, z=-296}
+[19Sep2025 04:18:47.580] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=606, y=-20, z=-307}
+[19Sep2025 04:18:47.580] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=606, y=-24, z=-298}
+[19Sep2025 04:18:47.581] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=616, y=-24, z=-308}
+[19Sep2025 04:18:47.582] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-20, z=-310}
+[19Sep2025 04:18:47.582] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=615, y=-20, z=-306}
+[19Sep2025 04:18:47.583] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=611, y=-24, z=-303}
+[19Sep2025 04:18:47.583] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-24, z=-302}
+[19Sep2025 04:18:47.612] [Worker-Main-156/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-24, z=-302}
+[19Sep2025 04:18:47.612] [Worker-Main-156/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-20, z=-303}
+[19Sep2025 04:18:47.613] [Worker-Main-156/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-20, z=-301}
+[19Sep2025 04:19:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[19Sep2025 04:20:29.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[19Sep2025 04:20:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 04:21:04.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Sep2025 04:21:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Sep2025 04:21:33.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[19Sep2025 04:22:00.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating a vehicle too long!
+[19Sep2025 04:22:01.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Flying is not enabled on this server
+[19Sep2025 04:22:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[19Sep2025 04:22:07.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:58175] logged in with entity id 239373 at (3160.2238934700576, 120.26350855827332, 5472.031835578118)
+[19Sep2025 04:22:07.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[19Sep2025 04:22:08.148] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
+[19Sep2025 04:23:39.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[19Sep2025 04:23:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[19Sep2025 04:23:58.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/165417, l='ServerLevel[world]', x=983.70, y=62.00, z=3995.70] was struck by lightning LightningBolt['Lightning Bolt'/240371, l='ServerLevel[world]', x=980.41, y=62.00, z=3994.91].
+[19Sep2025 04:23:58.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/165418, l='ServerLevel[world]', x=983.70, y=62.00, z=3991.70] was struck by lightning LightningBolt['Lightning Bolt'/240371, l='ServerLevel[world]', x=980.41, y=62.00, z=3994.91].
+[19Sep2025 04:23:58.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/165496, l='ServerLevel[world]', x=983.70, y=62.00, z=3993.70] was struck by lightning LightningBolt['Lightning Bolt'/240371, l='ServerLevel[world]', x=980.41, y=62.00, z=3994.91].
+[19Sep2025 04:23:58.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/165420, l='ServerLevel[world]', x=983.70, y=62.00, z=3997.35] was struck by lightning LightningBolt['Lightning Bolt'/240371, l='ServerLevel[world]', x=980.41, y=62.00, z=3994.91].
+[19Sep2025 04:24:47.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Creative Mode]
+[19Sep2025 04:25:15.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set own game mode to Survival Mode]
+[19Sep2025 04:26:53.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:58197] logged in with entity id 240913 at (3171.718193474833, 122.0, 5466.076940327626)
+[19Sep2025 04:26:53.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[19Sep2025 04:26:53.729] [Server thread/INFO] [Jade/]: Syncing config to Konnorcito (d8755d23-f6e9-34a1-a32a-9820cb7345cc)
